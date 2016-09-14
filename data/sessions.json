@@ -1,0 +1,15 @@
+{
+    "1": {
+        "id": 1,
+        "title": "PWA para todos",
+        "description": "En esta conferencia vamos a aprender que son las Progressive web Apps",
+        "speakers": [
+            1
+        ],
+        "language": "Español",
+        "complexity": "Beginner",
+        "tags": [
+            "Web"
+        ]
+    }
+}

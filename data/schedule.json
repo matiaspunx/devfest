@@ -1,0 +1,16 @@
+[{
+    "date": "2016-10-22",
+    "dateReadable": "22 de octubre",
+    "tracks": [{
+        "title": "Sala C"
+    }, {
+        "title": "Sala D"
+    }],
+    "timeslots": [{
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "sessions": [
+            [1]
+        ]
+    }]
+}]

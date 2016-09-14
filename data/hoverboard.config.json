@@ -1,0 +1,244 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#222222",
+        "backgroundImage": "/images/backgrounds/home_1.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest Río de La Plata 2016",
+          "youtubeId": "DfMnJAzOFng",
+          "text": "Mirá un video de nuestro ultimo evento"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "https://hoverboard.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "http://devfest.devrockers.com",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "Español",
+      "key": "es"
+    },
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "http://gdg-devfest-ua.appspot.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "http://devfest.devrockers.com/sponsors",
+          "newTab": true
+        },
+        {
+          "text": "media-kit",
+          "url": "http://devfest.devrockers.com/media",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "gdgriodelaplata@gmail.com",
+        "url": "mailto:gdgriodelaplata@gmail.com"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "http://eventbrite.com",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 500,
+        "currency": "₴",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 750,
+        "currency": "₴",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 1000,
+        "currency": "₴",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 500,
+      "caption": "attendees"
+    },
+    {
+      "counter": 1,
+      "caption": "days"
+    },
+    {
+      "counter": 16,
+      "caption": "sessions"
+    },
+    {
+      "counter": 2,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "gdgfun",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "gdgriodelaplata",
+      "url": "https://twitter.com/gdgriodelaplata"
+    },
+    {
+      "name": "gplus",
+      "nickname": "117464596269458963925",
+      "url": "https://plus.google.com/u/3/117464596269458963925"
+    },
+    {
+      "name": "facebook",
+      "nickname": "gdgriodelaplata",
+      "url": "https://www.facebook.com/gdgriodelaplata"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "AIzaSyACOLbSpnM6A02PAUxbPbQxx27kkO_EaeE",
+    "link": "https://www.facebook.com/elculturalsanmartin",
+    "pointer": {
+      "latitude": -34.6053428,
+      "longitude": -58.3907998,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": -34.6053428,
+      "longitude": -58.3907998
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
+  }
+}

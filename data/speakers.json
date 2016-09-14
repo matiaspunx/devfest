@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Matias Punx",
+        "title": "Developer Rockstar",
+        "company": "Dev Rockers",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/punx.jpg",
+        "shortBio": "Matias es desarrollador y profe de programación",
+        "bio": "Desarrollador y profe de programación en el Ministerio de Educación de la Ciudad de Buenos Aires y en Escuela Dev Rock",
+        "tags": [
+            "Web",
+            "Polymer"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/matiaspunx"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/antirockstars"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/matiaspunx/"
+            }
+        ]
+    }
+}
