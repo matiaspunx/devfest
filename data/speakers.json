@@ -34,5 +34,77 @@
                 "link": "https://github.com/matiaspunx/"
             }
         ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Jonatan Ariste",
+        "title": "Diseñador UX",
+        "company": "Dev Rockers",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/joni.png",
+        "shortBio": "Humano, telencéfalo altamente desarrollado, pulgar oponible, ​Diseñador UX",
+        "bio": "Humano, telencéfalo altamente desarrollado, pulgar oponible, ​Diseñador UX, Frontend, SpeakerTEDx, docente y Manager del Google Developer Group Rio de la Plata​",
+        "tags": [
+            "Web",
+            "UX"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jonatanariste"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/jonatanariste"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/jonatanariste/"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Laura Morinigo",
+        "title": "Fullstack Developer",
+        "company": "Dev Rockers",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/lauram.png",
+        "shortBio": "Laura es Fullstack Developer y profe en Escuela Dev Rock y Aprender Programando",
+        "bio": "",
+        "tags": [
+            "Angular",
+            "Firebase"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/lauramorinigo"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/lalarayada"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/lauramorinigo/"
+            }
+        ]
     }
 }

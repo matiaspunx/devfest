@@ -3,214 +3,92 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Matias Punx",
+        "photoUrl": "/images/people/punx.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+matiaspunx",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/matias.punx",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/antirockstars",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://o.zasadnyy.com/",
+            "link": "http://devrockers.com",
             "name": "Blog"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "Website y sponsors"
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Laura Morinigo",
+        "photoUrl": "/images/people/lauram.png",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/+lauramorinigo",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
+            "link": "https://www.facebook.com/laura.morinigo",
             "name": "Facebook"
           }
         ],
-        "title": "Social and media"
+        "title": "Sponsors, Social y media"
       },
       {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "name": "Jonatan Ariste",
+        "photoUrl": "/images/people/joni.png",
         "socials": [
           {
             "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
+            "link": "https://www.linkedin.com/in/jonatanariste",
             "name": "Linkedin"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
+            "link": "https://twitter.com/jonatanariste",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
+            "link": "http://escueladevrock.com",
+            "name": "Escuela Dev Rock"
           }
         ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Sponsors"
-      },
-      {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
+        "title": "Diseño gráfico y Speakers"
       }
     ]
   },
   {
-    "title": "Program Committee",
+    "title": "Amigos",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+        "name": "Marcos Risotto",
+        "photoUrl": "/images/people/x.jpg",
         "socials": [
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
+            "link": "https://www.facebook.com/marcosrisotto",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
+            "link": "https://twitter.com/marcosrisotto",
             "name": "Twitter"
           }
         ],
-        "title": "Cloud stream"
-      },
-      {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
-          }
-        ],
-        "title": "Android Stream"
+        "title": "Developer, voluntario"
       }
     ]
   }

@@ -8,7 +8,7 @@
         "tabBarColor": "#fff",
         "video": {
           "title": "GDG DevFest Río de La Plata 2016",
-          "youtubeId": "DfMnJAzOFng",
+          "youtubeId": "h8azyL4MRHw",
           "text": "Mirá un video de nuestro ultimo evento"
         },
         "hideLogo": true,
@@ -84,10 +84,6 @@
     {
       "name": "Español",
       "key": "es"
-    },
-    {
-      "name": "English",
-      "key": "en"
     }
   ],
   "footerBlocks": [
@@ -143,31 +139,13 @@
     "elements": [
       {
         "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
+        "price": 0,
+        "currency": "$",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
+        "info": "",
         "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
-        "soldOut": false
-      }
-    ]
+      }    ]
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
@@ -209,7 +187,7 @@
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.facebook.com/gdgriodelaplata/photos?ref=page_internal",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -236,9 +214,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=h8azyL4MRHw",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "h8azyL4MRHw"
   }
 }

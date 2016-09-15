@@ -45,7 +45,7 @@
         --cloud: #3f51b5;
         --community: #e91e63;
         --it: #9E9E9E;
-        --angular-js: #e0343d;
+        --angular: #e0343d;
         --angular-js2: #e0343d;
         --protractor: #e0343d;
         --polymer: #d81b60;
@@ -181,7 +181,11 @@
         font-weight: 300;
       }
 
-      a,
+      a:link, a:visited {
+        color: var(--accent-color);
+        text-decoration: none;
+      }
+
       .anchor-like,
       .markdown-html a {
         color: var(--default-primary-color);
