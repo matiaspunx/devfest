@@ -1,20 +1,20 @@
 [
   {
-    "id": "anuncio-devfest-2016",
-    "title": "Se viene el GDG DevFest 2016",
+    "id": "devfest-2016",
+    "title": "Se viene el Dev Rockers Fest 2016",
     "posted": "2016-09-15",
-    "primaryColor": "#00BCD4",
-    "secondaryColor": "#00BCD4",
+    "primaryColor": "#",
+    "secondaryColor": "#000",
     "image": "/images/posts/announce.jpg",
-    "brief": "Estamos orgullosos de anunciar que el 22 de octubre se celebrará en el cultural san martin una nueva edición del Dev Fest!"
+    "brief": "Estamos orgullosos de anunciar que el 22 de octubre se celebrará el Dev Rockers Fest en el cultural san martin"
   },
   {
-    "id": "c4p-time",
-    "title": "Hora del Call for Papers!",
+    "id": "convocatoria",
+    "title": "¡Abrimos la convocatoría!",
     "posted": "2016-09-15",
-    "primaryColor": "#3F51B5",
-    "secondaryColor": "#3F51B5",
+    "primaryColor": "#222222",
+    "secondaryColor": "#222222",
     "image": "/images/posts/c4p-is-open.jpg",
-    "brief": "Abrimos la convocatoria para que te postules como speaker del Dev Fest 2016!"
+    "brief": "Abrimos la convocatoria para que te postules como speaker del Dev Rockers Fest 2016!"
   }
 ]
