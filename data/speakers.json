@@ -106,5 +106,41 @@
                 "link": "https://github.com/lauramorinigo/"
             }
         ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "German Quiroz",
+        "title": "Fullstack Developer",
+        "company": "Dev Rockers",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/lauram.png",
+        "shortBio": "Laura es Fullstack Developer y profe en Escuela Dev Rock y Aprender Programando",
+        "bio": "",
+        "tags": [
+            "Angular",
+            "Firebase"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/lauramorinigo"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/lalarayada"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/lauramorinigo/"
+            }
+        ]
     }
 }
