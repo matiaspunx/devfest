@@ -3,10 +3,10 @@
     "title": "template-creator",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg",
-        "width": 170
+        "name": "GDG Río de La Plata",
+        "url": "http://gdgriodelaplata.com",
+        "logoUrl": "../images/logos/gdg-rdlp.svg",
+        "width": 280
       }
     ]
   },
@@ -17,6 +17,34 @@
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
+      },
+      {
+        "name": "Intec",
+        "url": "http://www.buenosaires.gob.ar/educacion/escuelas/educaciondigital",
+        "logoUrl": "../images/logos/intec.jpg"
+      },
+      {
+        "name": "El Cultural San Martin",
+        "url": "http://www.elculturalsanmartin.org/",
+        "logoUrl": "../images/logos/cultural.svg",
+        "width": 190
+      },
+      {
+        "name": "Buenos Aires Ciudad",
+        "url": "http://www.buenosaires.gob.ar/",
+        "logoUrl": "../images/logos/baciudad.svg",
+        "width": 220
+      }
+    ]
+  },
+  {
+    "title": "comunidades-partner",
+    "logos": [
+      {
+        "name": "Chicas en Tecnología",
+        "url": "http://www.chicasentecnologia.org/",
+        "logoUrl": "../images/logos/cet.png",
+        "width": 170
       }
     ]
   }

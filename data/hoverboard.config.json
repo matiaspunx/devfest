@@ -115,12 +115,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://devfest.devrockers.com/sponsors",
+          "url": "https://devrockers.com",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://devfest.devrockers.com/media",
+          "url": "https://devrockers.com",
           "newTab": true
         }
       ]
@@ -135,7 +135,7 @@
     ]
   },
   "tickets": {
-    "url": "http://eventbrite.com",
+    "url": "https://www.eventbrite.com/e/gdg-dev-rockers-fest-2016-tickets-27905799999",
     "elements": [
       {
         "name": "student-ticket",
@@ -151,7 +151,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 500,
+      "counter": "500+",
       "caption": "attendees"
     },
     {

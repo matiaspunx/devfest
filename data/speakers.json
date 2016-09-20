@@ -1,7 +1,7 @@
 {
     "1": {
         "id": 1,
-        "featured": true,
+        "featured": false,
         "name": "Matias Punx",
         "title": "Developer Rockstar",
         "company": "Dev Rockers",
@@ -41,7 +41,7 @@
         "name": "Jonatan Ariste",
         "title": "Diseñador UX",
         "company": "Dev Rockers",
-        "companyLogo": "/images/logos/google.svg",
+        "companyLogo": "/images/logos/gdg.svg",
         "country": "Buenos Aires, Argentina",
         "photoUrl": "/images/people/joni.png",
         "shortBio": "Humano, telencéfalo altamente desarrollado, pulgar oponible, ​Diseñador UX",
@@ -77,7 +77,7 @@
         "name": "Laura Morinigo",
         "title": "Fullstack Developer",
         "company": "Dev Rockers",
-        "companyLogo": "/images/logos/google.svg",
+        "companyLogo": "/images/logos/gdg.svg",
         "country": "Buenos Aires, Argentina",
         "photoUrl": "/images/people/lauram.png",
         "shortBio": "Laura es Fullstack Developer y profe en Escuela Dev Rock y Aprender Programando",
@@ -110,16 +110,17 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "German Quiroz",
+        "name": "Germán Quiroz",
         "title": "Fullstack Developer",
-        "company": "Dev Rockers",
-        "companyLogo": "/images/logos/google.svg",
-        "country": "Buenos Aires, Argentina",
-        "photoUrl": "/images/people/lauram.png",
-        "shortBio": "Laura es Fullstack Developer y profe en Escuela Dev Rock y Aprender Programando",
+        "company": "GDG Córdoba",
+        "companyLogo": "/images/logos/gdg.svg",
+        "country": "Rosario, Argentina",
+        "photoUrl": "/images/people/german.png",
+        "shortBio": "Manager Google Developers Group Cordoba, Full Stack Developer Freelance",
         "bio": "",
         "tags": [
-            "Angular",
+            "Web",
+            "Polymer",
             "Firebase"
         ],
         "badges": [
@@ -127,19 +128,67 @@
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/lauramorinigo"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/gquirozbogner"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Mario Freiria",
+        "title": "Youtuber / Profe de guitarra",
+        "company": "Youtube",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/mario.jpg",
+        "shortBio": "Mario Freiria es músico y profesor de guitarra. Tiene un canal de Youtube donde enseña a tocar la guitarra.",
+        "bio": "",
+        "tags": [
+            "Youtube",
+            "Guitarra"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "youtube",
+                "name": "Youtube",
+                "link": "https://youtube.com/user/mariofreiria"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/lalarayada"
-            },
+                "link": "https://twitter.com/tcdguitarra"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Mauro Urani",
+        "title": "IOS Developer",
+        "company": "Apple",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/fogo.png",
+        "shortBio": "Co-Founder & CTO @Aviron_Arg iOS Dev y profe de #Swift",
+        "bio": "Co-Founder & CTO @Aviron_Arg iOS Dev y profe de #Swift en @EscuelaDevRock. también desarrollé BA Como Llego (nativa) - Gran Hermano - El Trece TV - C5N y más...",
+        "tags": [
+            "IOS",
+            "Swift",
+            "Firebase"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
             {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/lauramorinigo/"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/f0go"
             }
         ]
     }
