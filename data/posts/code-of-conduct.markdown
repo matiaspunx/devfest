@@ -1,13 +1,15 @@
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Está política de "No seas estúpido" es una versión mas corta y casual de la extensa política de conducta. [Lee version completa](https://meta.wikimedia.org/wiki/No_seas_est%C3%BApido).__
 
 <br/>
 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at GDG meetings. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from the meeting or GDG Chapter.
+GDG Río de La Plata y Dev Rockers son comunidades abiertas, respetuosas e inclusivas. Eso significa que el comportamiento desigual no está permitido en los eventos GDG. Como sabemos que esto no es obvio para todos, esto es un recordatorio de las cosas que no están permitidas: chistes o comentarios ofensivos sobre sexo / sexualidad / raza / religión / nacionalidad / tamaño corporal, mostrando porno en público, tocar a las personas sin invitación, o continua para interactuar con alguien después de que te hayan pedido que pares. Cualquiera de estos comportamientos puede resultar en que seas expulsado de evento.
 
-If someone is bothering you, please tell GDG Organizers immediately and they will take care of it. We want to maintain GDG DevFest’s awesomeness.
+Si alguien te está molestando, comunicate con los organizadores de inmediato para que se hagan cargo. Queremos mantener genialidad en el Dev Rockers Fest.
 
 <br/>
 
-#### Contacts:
+#### Contacto:
 
-- Oleh Zasadnyy, +38 093 48 66 460, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
+- Matias Punx, [matias.punx@gmail.com](mailto:matias.punx@gmail.com)<br>
+- Jonatan Ariste, [jonatan.ariste@gmail.com](mailto:jonatan.ariste@gmail.com)<br>
+- Laura Morinigo, [laura.s.morinigo@gmail.com](mailto:laura.s.morinigo@gmail.com)
