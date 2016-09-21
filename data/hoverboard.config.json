@@ -17,35 +17,35 @@
     },
     "blog": {
       "headerSettings": {
-        "backgroundColor": "#222",
+        "backgroundColor": "#212121",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "speakers": {
       "headerSettings": {
-        "backgroundColor": "#333",
+        "backgroundColor": "#212121",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "schedule": {
       "headerSettings": {
-        "backgroundColor": "#444",
+        "backgroundColor": "#212121",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "team": {
       "headerSettings": {
-        "backgroundColor": "#555",
+        "backgroundColor": "#212121",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "cod": {
       "headerSettings": {
-        "backgroundColor": "#222",
+        "backgroundColor": "#212121",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }

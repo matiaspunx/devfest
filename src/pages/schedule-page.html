@@ -26,18 +26,6 @@
         display: block;
       }
 
-      .muypronto {
-        @apply(--layout-horizontal);
-        @apply(--layout-center-center);
-        padding: 12px;
-        min-height: 42px;
-        font-size: 20px;
-        text-align: center;
-        letter-spacing: .8px;
-        line-height: 1.05;
-        color: #fff;
-      }
-
       .container[phone] {
         padding-right: 0;
         padding-left: 0;
@@ -56,11 +44,6 @@
     ></app-route>
 
     <div class="container" phone$="{{app.isPhoneSize}}">
-
-      <div class="muypronto" style="text-align: center; padding-top:20px">
-        <p>¡Muy pronto la agenda completa!</p>
-      </div>
-
       <schedule-subnav
         app="{{app}}"
         schedule="[[schedule]]"

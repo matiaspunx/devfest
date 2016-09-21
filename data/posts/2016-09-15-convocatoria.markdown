@@ -48,6 +48,11 @@ Preparamos una lista de temas interesantes, pero si tenés alguna buena idea que
 * Firebase
 * Kubernetes
 
+### Educación y Tecnología
+* Implementar nuevas tecnologías al aula
+* Google Classroom
+* Google for Education 
+
 <br/>
 
 **Vamos a mantener la convocatoria hasta el 3 de octubre.** No se cuelguen! :)
