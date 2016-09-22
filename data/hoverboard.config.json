@@ -102,11 +102,6 @@
           "text": "google-developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
         }
       ]
     },
@@ -115,12 +110,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "https://devrockers.com",
+          "url": "https://docs.google.com/presentation/d/1Pko_JlMbO1Lk2yvqBBcal_-cBh280tSCgXGGAYHXExo/edit?usp=sharing",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "https://devrockers.com",
+          "url": "#",
           "newTab": true
         }
       ]

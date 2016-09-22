@@ -110,7 +110,7 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Germán Quiroz",
+        "name": "Germán Quiróz Bogner",
         "title": "Fullstack Developer",
         "company": "GDG Córdoba",
         "companyLogo": "/images/logos/gdg.svg",
@@ -156,7 +156,7 @@
             {
                 "icon": "youtube",
                 "name": "Youtube",
-                "link": "https://youtube.com/user/mariofreiria"
+                "link": "https://www.youtube.com/user/mariofreiria"
             },
             {
                 "icon": "twitter",
@@ -189,6 +189,32 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/f0go"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Carolina Hadad",
+        "title": "Programadora",
+        "company": "Chicas en Tecnología",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/caro.png",
+        "shortBio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.",
+        "bio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.<br><br>Trabajó en la <strong>Dirección Nacional de Datos del Ministerio de Modernización Argentino</strong> y en el  Laboratorio de Gobierno de la Ciudad de Buenos Aires coordinando equipos de desarrollo. Fue <strong>programadora en el laboratorio de innovación latinoamericano de InSTEDD</strong> creando software con fines humanitarios para Asia, Africa y América Latina. Fue pasante en Google en el equipo de Engineer Education.<br><br>Fue Ayudante de Segunda y Divulgadora del Departamento de Computación de la Facultad de Ciencias Exactas y Naturales de la UBA y participó como mentora en Programá tu Futuro en la sede Palermo.",
+        "tags": [
+            "Web",
+            "Community"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/carohadad"
             }
         ]
     }

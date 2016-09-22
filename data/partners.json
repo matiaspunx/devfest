@@ -24,6 +24,12 @@
         "logoUrl": "../images/logos/intec.jpg"
       },
       {
+        "name": "Escuela Dev Rock",
+        "url": "http://www.escueladevrock.com",
+        "logoUrl": "../images/logos/edr.svg",
+        "width": 200
+      },
+      {
         "name": "El Cultural San Martin",
         "url": "http://www.elculturalsanmartin.org/",
         "logoUrl": "../images/logos/cultural.svg",
