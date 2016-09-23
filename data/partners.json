@@ -49,8 +49,20 @@
       {
         "name": "Chicas en Tecnología",
         "url": "http://www.chicasentecnologia.org/",
-        "logoUrl": "../images/logos/cet.png",
+        "logoUrl": "../images/logos/cet.svg",
         "width": 170
+      },
+      {
+        "name": "[Net-Baires]",
+        "url": "http://www.meetup.com/es-ES/Net-Baires/",
+        "logoUrl": "../images/logos/netbaires.png",
+        "width": 170
+      },
+      {
+        "name": "Buenos Aires Cloud Computing",
+        "url": "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/",
+        "logoUrl": "../images/logos/bacloud.png",
+        "width": 100
       }
     ]
   }

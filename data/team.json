@@ -69,27 +69,5 @@
         "title": "Diseño gráfico y Speakers"
       }
     ]
-  },
-  {
-    "title": "Amigos",
-    "members": [
-      {
-        "name": "Marcos Risotto",
-        "photoUrl": "/images/people/x.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marcosrisotto",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/marcosrisotto",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Developer, voluntario"
-      }
-    ]
   }
 ]

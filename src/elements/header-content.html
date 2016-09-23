@@ -87,11 +87,11 @@
       }
 
       .action-buttons {
-        margin-top: 40px;
+        margin-top: 30px;
       }
 
       paper-button {
-        font-size: 0.8em;
+        font-size: 0.9em;
         color: #fff;
       }
 
@@ -133,13 +133,16 @@
                           alt="GDG DevFest Ukraine 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              <div class="open-video" on-tap="_openVideo">
+              <div class="action-buttons">
+                <a href="https://goo.gl/forms/0mrrvy9FI92ZZEu53" target="_blank"><paper-button class="yellow" raised>¡Postulate para dar una charla!</paper-button></a>
+              </div>
+              <!-- <div class="open-video" on-tap="_openVideo">
                 <iron-icon icon="play"></iron-icon>
                 {{localize('play-icon')}}
-              </div>
-              <div class="action-buttons">
+              </div> -->
+              <!-- <div class="action-buttons">
                 <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
-              </div>
+              </div> -->
             </div>
           </div>
         </animatable-content>

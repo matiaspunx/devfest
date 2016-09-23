@@ -147,6 +147,7 @@
         "bio": "Mario Freiria es músico y profesor de guitarra. Tiene un canal de Youtube donde enseña a tocar la guitarra.",
         "tags": [
             "Youtube",
+            "Educación",
             "Guitarra"
         ],
         "badges": [
@@ -198,7 +199,7 @@
         "name": "Carolina Hadad",
         "title": "Programadora",
         "company": "Chicas en Tecnología",
-        "companyLogo": "",
+        "companyLogo": "/images/logos/cet.svg",
         "country": "Buenos Aires, Argentina",
         "photoUrl": "/images/people/caro.png",
         "shortBio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.",
@@ -217,5 +218,31 @@
                 "link": "https://twitter.com/carohadad"
             }
         ]
+    },
+    "8": {
+      "id": 8,
+      "featured": true,
+      "name": "Melina Masnatta",
+      "title": "Coordinadora en Fundación Huésped",
+      "company": "Chicas en Tecnología",
+      "companyLogo": "/images/logos/cet.svg",
+      "country": "Buenos Aires, Argentina",
+      "photoUrl": "/images/people/meli.png",
+      "shortBio": "#tecnología #arte #educación. Cofundadora de <strong>Chicas en Tecnología</strong> Coordinadora LabFH Fundación Huesped, profe en @educacionuba @FLACSOARGENTINA. Conductora en @benditos90",
+      "bio": "#tecnología #arte #educación. Cofundadora de <strong>Chicas en Tecnología</strong> Coordinadora LabFH Fundación Huesped, profe en @educacionuba @FLACSOARGENTINA. Conductora en @benditos90",
+      "tags": [
+          "Educación",
+          "Comunidad"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/melinamasnatta"
+          }
+      ]
     }
 }
