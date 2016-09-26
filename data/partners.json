@@ -11,6 +11,18 @@
     ]
   },
   {
+    "title": "general-sponsors",
+    "logos": [
+      {
+        "name": "Suri App",
+        "url": "",
+        "logoUrl": "../images/logos/suriapp.png",
+        "width": 150,
+        "height": 150
+      }
+    ]
+  },
+  {
     "title": "general-partner",
     "logos": [
       {
@@ -63,6 +75,12 @@
         "url": "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/",
         "logoUrl": "../images/logos/bacloud.png",
         "width": 100
+      },
+      {
+        "name": "Mumuki",
+        "url": "http://mumuki.io",
+        "logoUrl": "../images/logos/logo-alt-large.png",
+        "width": 120
       }
     ]
   }

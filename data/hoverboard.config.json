@@ -2,14 +2,14 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#222222",
+        "backgroundColor": "#151515",
         "backgroundImage": "/images/backgrounds/home_1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
           "title": "GDG DevFest Río de La Plata 2016",
-          "youtubeId": "h8azyL4MRHw",
-          "text": "Mirá un video de nuestro ultimo evento"
+          "youtubeId": "flCMhO2xmsE",
+          "text": "Mirá la presentación del Dev Rockers Fest 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -17,35 +17,35 @@
     },
     "blog": {
       "headerSettings": {
-        "backgroundColor": "#212121",
+        "backgroundColor": "#151515",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "speakers": {
       "headerSettings": {
-        "backgroundColor": "#212121",
+        "backgroundColor": "#151515",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "schedule": {
       "headerSettings": {
-        "backgroundColor": "#212121",
+        "backgroundColor": "#151515",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "team": {
       "headerSettings": {
-        "backgroundColor": "#212121",
+        "backgroundColor": "#151515",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "cod": {
       "headerSettings": {
-        "backgroundColor": "#212121",
+        "backgroundColor": "#151515",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -162,7 +162,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "gdgfun",
+  "hashtag": "DevRockersFest",
   "social": [
     {
       "name": "twitter",
@@ -180,7 +180,7 @@
       "url": "https://www.facebook.com/gdgriodelaplata"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://devrockers.herokuapp.com/searchjson.php?c=10&cache_interval=8000&q=DevRockersFest",
   "gallery": {
     "albumUrl": "https://www.facebook.com/gdgriodelaplata/photos?ref=page_internal",
     "photos": {

@@ -65,6 +65,7 @@
                      sign="@"></social-post>
       </div>
       <span class="divider"></span>
+
       <div class="social-section">
         <h4 class="heading">[[localize('social-title')]]</h4>
         <div>[[localize('social-motto')]]</div>
@@ -105,17 +106,17 @@
 
           _selected: {
             type: Number,
-            value: -1
+            value: -0
           }
         },
 
         _postsChanged: function () {
           var index = this._selected;
           if (this._posts) {
-            this._selected = (++index % this._posts.length);
-            this.author = this._posts[this._selected].user.screen_name;
-            this.when = this._posts[this._selected].created_at;
-            this.text = this._linkifyPost(this._posts[this._selected].text);
+            this._selected = (++index % this._posts.statuses.length);
+            this.author = this._posts.statuses[this._selected].user.screen_name;
+            this.when = this._posts.statuses[this._selected].created_at;
+            this.text = this._linkifyPost(this._posts.statuses[this._selected].text);
 
             this.async(this._postsChanged, this.interval);
           }
