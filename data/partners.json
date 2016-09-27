@@ -27,8 +27,9 @@
     "logos": [
       {
         "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "url": "https://developers.google.com/",
+        "logoUrl": "../images/logos/google-developers.svg",
+        "width": 300
       },
       {
         "name": "Intec",
