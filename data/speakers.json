@@ -244,5 +244,72 @@
               "link": "https://twitter.com/melinamasnatta"
           }
       ]
+    },
+    "9": {
+      "id": 9,
+      "featured": true,
+      "name": "Ezequiel Zanetta",
+      "title": "Android Developer",
+      "company": "Chicas en Tecnología",
+      "companyLogo": "/images/logos/android.svg",
+      "country": "Buenos Aires, Argentina",
+      "photoUrl": "/images/people/ezanetta.jpg",
+      "shortBio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio.",
+      "bio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio. Es de Necochea y vive en capital federal hace 8 años. Tiene varias apps publicadas en el store, la mas conocida es una llamada *Bastapp chicos* con mas de 75.000 descargas.",
+      "tags": [
+          "Android",
+          "Web"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/Estequiel_"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/ezanetta"
+          }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "featured": true,
+      "name": "Nicolás Bianchi",
+      "title": "Diseñador UX/UI",
+      "company": "GDG Montevideo",
+      "companyLogo": "/images/logos/gdg.svg",
+      "country": "Montevideo, Uruguay",
+      "photoUrl": "/images/people/nbianchi.jpg",
+      "shortBio": "Nicolás Bianchi ha trabajado por más de 10 años en agencias de publicidad y empresas de software y tecnología, desarrollando estrategias de diseño y marketing digital para éstas compañías y clientes de las mismas.",
+      "bio": "Nicolás Bianchi ha trabajado por más de 10 años en agencias de publicidad y empresas de software y tecnología, desarrollando estrategias de diseño y marketing digital para éstas compañías y clientes de las mismas.<br>Esto le ha permitido poder comprender ampliamente los diferentes procesos y mécanicas de trabajo en el área de marketing y desarrollo de producto desde los diferentes puntos de vista que cada una de éstas conllevan.<br>La posibilidad de trabajar para grandes compañias nacionales e internacionales le ha permitido desarrollar proyectos para clientes de la talla de Peugeot, Alfa Romeo, Mercedes Benz, Volkswagen, Claro, Pepsico, Christian Dior, Naciones Unidas (ONU), FAO, GEF, Universidad Católica, Petrobras, BBVA, entre otros.<br>A lo largo de los años ha adquirido mayor conocimiento en el desarrollo de la Experiencia de Usuario (UX), además del trabajo en Interfaz de Usuario (UI). Bajo éstas premisas ha estudiado en profunidad los diferentes conceptos de Usabilidad, Arquitectura de la Información y las diversas técnicas que se necesitan para realizar un proyecto óptimo con una UX lo mejor desarrollada posible. Un proceso de trabajo que en sus primeros años se centraba en la realización de un buen diseño e Interfaz de Usuario, cada día se enfoca más en el análisis, estudio del flujo del usuario en la interfaz, entre otros estudios analíticos para poder definir de mejor forma el resultado final a tratar.<br>Nicolás ha sido mentor (coach) en el área de MarketingDigital+Diseño+UX de reconocidos eventos internacionales como ser StartupWeekend, Lean Startup Machine, Google NextLevel Startup Reality (Argentina), entre otros. También ha sido co-organizador de Hackers&Founder Montevideo, y creador y co-organizador de uno de los eventos de tecnología más importantes del país, techMeetupUY, evento de +400 personas que busca integrar los diversos meetups que ocurren mensualmente durante el año, en un fin de semana cargado de tendencias y tecnologías.<br>Actualmente participa activamente, desde los inicios, en el Google Developer Groups Montevideo (Uruguay) como manager de la organización. Aquí se realizan meetups durante todo el año con una puesta a punto de todas las tendencias tecnológicas bajo el ecosistema Google, además de la organización del Google DevFest, evento anual tecnológico donde concurren más de 400 personas.<br>En cuanto a tema de cursos y charlas, Nicolás ha dictado diversos cursos de maquetación y diseño de interfaz de usuario con especial énfasis en UX, como así también dictado conferencias de *UX/UI Design* en Uruguay y la región.<br>También trabaja como consultor en UX/UI para startups, ayudando a éstas a desarrollar capacidades que muchas veces carecen o no saben como desarrollar en profunidad y de forma correcta.<br>Desde hace más de 3 años, Nicolás trabaja como CMO en una importante empresa de tecnología de Uruguay (+100 empleados con oficinas en la región) liderando el equipo donde desarrollan estrategias de Marketing Digital para la compañía y sus clientes, como así también el diseño y desarrollo de interfases de usuario en todos los proyectos que la compañía realiza.",
+      "tags": [
+          "UX",
+          "Web"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/nicobf"
+        },
+        {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/nicolas.bianchi1"
+        },
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://uy.linkedin.com/in/nicolasbianchi1"
+        }
+      ]
     }
 }
