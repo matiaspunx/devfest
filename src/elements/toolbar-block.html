@@ -58,6 +58,8 @@
         padding: 0 10px;
       }
 
+
+
       .nav-link {
         @apply(--layout-horizontal);
         @apply(--layout-center-center);
@@ -72,6 +74,11 @@
       .action-button {
         color: var(--header-background);
         background: var(--header-color);
+        font-size: 13px;
+      }
+      .remera-button {
+        background: var(--accent-color);
+        color: #fff;
         font-size: 13px;
       }
     </style>
@@ -102,6 +109,9 @@
           <div class="action-button-wrapper" layout horizontal center-center>
             <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
               <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
+            </a>
+            <a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=120566349-5c05ce69-7c27-4c2a-b00c-3434e892c0d9" name="MP-payButton" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+              <paper-button class="remera-button" raised>[[localize('buy-ticket-remera')]]</paper-button>
             </a>
           </div>
         </template>
@@ -150,6 +160,8 @@
         }
 
       });
+
+      (function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
 
     }());
   </script>

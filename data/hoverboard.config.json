@@ -140,7 +140,17 @@
         "ends": "student-ticket-ends",
         "info": "",
         "soldOut": false
-      }    ]
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 300,
+        "currency": "$",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": false
+      }
+    ]
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
