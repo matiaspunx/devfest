@@ -49,6 +49,13 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
+    },
+    "ml": {
+      "headerSettings": {
+        "backgroundColor": "#151515",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
     }
   },
   "navigation": [
