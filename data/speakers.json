@@ -111,6 +111,38 @@
             }
         ]
     },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Hernan Liendo",
+        "title": "Ingeniero",
+        "company": "ZupCat",
+        "companyLogo": "/images/logos/experts-logo.png",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "/images/people/hernan.jpg",
+        "shortBio": "Hernan tiene casi 20 años de experiencia en IT, trabajando en empresas, además de ser el co-fundador de ZupCat. Es profesor de ingeniería en dos de las principales universidades de Buenos Aires.",
+        "bio": "Hernan tiene casi 20 años de experiencia en IT, trabajando en empresas, además de ser el co-fundador de ZupCat. Es profesor de ingeniería en dos de las principales universidades de Buenos Aires.<br>Como director de tecnología de ZupCat, Hernan ha diseñado juegos utilizados por más de 13 millones de usuarios en todo el mundo utilizando Google Cloud Platform. Estos juegos de alta calidad fueron coproducidos por algunos de los mejores editores de Asia, Europa y América del Norte.<br>Hernan es ingeniero en informática y fue galardonado con la 'mejor tesis del año' por su trabajo sobre la Web Semántica.",
+        "tags": [
+            "Cloud",
+            "Mobile",
+            "Kubernetes"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/hernanliendo"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/hernanliendo"
+            }
+        ]
+    },
     "9": {
       "id": 9,
       "featured": true,
@@ -247,6 +279,36 @@
             "icon": "linkedin",
             "name": "LinkedIn",
             "link": "https://www.linkedin.com/in/leopittelli"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "featured": true,
+      "name": "Martin Rabaglia",
+      "title": "Ingeniero, músico",
+      "company": "Genosha",
+      "companyLogo": "",
+      "country": "Buenos Aires, Argentina",
+      "photoUrl": "/images/people/martinr.png",
+      "shortBio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.",
+      "bio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.<br>Trabaja como Director de Tecnología y Experiencias en Genosha, una agencia Argentina.<br>Martin participó como orador de eventos como SXSW, Media Party, MozFest y BAFICI.",
+      "tags": [
+          "VR"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/tincho_for_ever"
+        },
+        {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/tinchoforever"
         }
       ]
     }
