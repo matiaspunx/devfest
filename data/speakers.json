@@ -111,32 +111,6 @@
             }
         ]
     },
-    "8": {
-      "id": 8,
-      "featured": true,
-      "name": "Melina Masnatta",
-      "title": "Coordinadora en Fundación Huésped",
-      "company": "Chicas en Tecnología",
-      "companyLogo": "/images/logos/cet.svg",
-      "country": "Buenos Aires, Argentina",
-      "photoUrl": "/images/people/meli.png",
-      "shortBio": "#tecnología #arte #educación. Cofundadora de <strong>Chicas en Tecnología</strong> Coordinadora LabFH Fundación Huesped, profe en @educacionuba @FLACSOARGENTINA. Conductora en @benditos90",
-      "bio": "#tecnología #arte #educación. Cofundadora de <strong>Chicas en Tecnología</strong> Coordinadora LabFH Fundación Huesped, profe en @educacionuba @FLACSOARGENTINA. Conductora en @benditos90",
-      "tags": [
-          "Educación",
-          "Comunidad"
-      ],
-      "badges": [
-
-      ],
-      "socials": [
-          {
-              "icon": "twitter",
-              "name": "Twitter",
-              "link": "https://twitter.com/melinamasnatta"
-          }
-      ]
-    },
     "9": {
       "id": 9,
       "featured": true,
