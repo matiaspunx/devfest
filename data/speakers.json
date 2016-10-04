@@ -1,315 +1,423 @@
 {
-    "4": {
-        "id": 4,
-        "featured": true,
-        "name": "Germán Quiróz Bogner",
-        "title": "Fullstack Developer",
-        "company": "GDG Córdoba",
-        "companyLogo": "/images/logos/gdg.svg",
-        "country": "Rosario, Argentina",
-        "photoUrl": "/images/people/german.png",
-        "shortBio": "Manager Google Developers Group Cordoba, Full Stack Developer Freelance",
-        "bio": "Manager Google Developers Group Cordoba, Full Stack Developer Freelance",
-        "tags": [
-            "Web",
-            "Polymer",
-            "Firebase"
-        ],
-        "badges": [
+  "1": {
+    "id": 1,
+    "featured": false,
+    "name": "Matias Punx",
+    "title": "Developer Rockstar",
+    "company": "Dev Rockers",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/punx.jpg",
+    "shortBio": "Matias es desarrollador y profe de programación",
+    "bio": "Desarrollador y profe de programación en el Ministerio de Educación de la Ciudad de Buenos Aires y en Escuela Dev Rock",
+    "tags": [
+      "Web",
+      "Polymer"
+    ],
+    "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/gquirozbogner"
-            }
-        ]
-    },
-    "5": {
-        "id": 5,
-        "featured": true,
-        "name": "Mario Freiria",
-        "title": "Youtuber / Profe de guitarra",
-        "company": "Youtube",
-        "companyLogo": "",
-        "country": "Buenos Aires, Argentina",
-        "photoUrl": "/images/people/mario.jpg",
-        "shortBio": "Mario Freiria es músico y profesor de guitarra. Tiene un canal de Youtube donde enseña a tocar la guitarra.",
-        "bio": "Mario Freiria es músico y profesor de guitarra. Tiene un canal de Youtube donde enseña a tocar la guitarra.",
-        "tags": [
-            "Youtube",
-            "Educación",
-            "Guitarra"
-        ],
-        "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/matiaspunx"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/antirockstars"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/matiaspunx/"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "featured": true,
+    "name": "Jonatan Ariste",
+    "title": "Diseñador UX",
+    "company": "Dev Rockers",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/joni.png",
+    "shortBio": "Humano, telencéfalo altamente desarrollado, pulgar oponible, ​Diseñador UX",
+    "bio": "Humano, telencéfalo altamente desarrollado, pulgar oponible, ​Diseñador UX, Frontend, SpeakerTEDx, docente y Manager del Google Developer Group Rio de la Plata​",
+    "tags": [
+      "Web",
+      "UX"
+    ],
+    "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "youtube",
-                "name": "Youtube",
-                "link": "https://www.youtube.com/user/mariofreiria"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/tcdguitarra"
-            }
-        ]
-    },
-    "6": {
-        "id": 6,
-        "featured": true,
-        "name": "Mauro Urani",
-        "title": "IOS Developer",
-        "company": "Apple",
-        "companyLogo": "",
-        "country": "Buenos Aires, Argentina",
-        "photoUrl": "/images/people/fogo.png",
-        "shortBio": "Co-Founder & CTO @Aviron_Arg iOS Dev y profe de #Swift",
-        "bio": "Co-Founder & CTO @Aviron_Arg iOS Dev y profe de #Swift en @EscuelaDevRock. también desarrollé BA Como Llego (nativa) - Gran Hermano - El Trece TV - C5N y más...",
-        "tags": [
-            "IOS",
-            "Swift",
-            "Firebase"
-        ],
-        "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/jonatanariste"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/jonatanariste"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/jonatanariste/"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "featured": true,
+    "name": "Laura Morinigo",
+    "title": "Fullstack Developer",
+    "company": "Dev Rockers",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/lauram.png",
+    "shortBio": "Laura es Fullstack Developer y profe en Escuela Dev Rock y Aprender Programando",
+    "bio": "Laura es Fullstack Developer y profe en Escuela Dev Rock y Aprender Programando",
+    "tags": [
+      "Angular",
+      "Firebase"
+    ],
+    "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/f0go"
-            }
-        ]
-    },
-    "7": {
-        "id": 7,
-        "featured": true,
-        "name": "Carolina Hadad",
-        "title": "Programadora",
-        "company": "Chicas en Tecnología",
-        "companyLogo": "/images/logos/cet.svg",
-        "country": "Buenos Aires, Argentina",
-        "photoUrl": "/images/people/caro.png",
-        "shortBio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.",
-        "bio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.<br><br>Trabajó en la <strong>Dirección Nacional de Datos del Ministerio de Modernización Argentino</strong> y en el  Laboratorio de Gobierno de la Ciudad de Buenos Aires coordinando equipos de desarrollo. Fue <strong>programadora en el laboratorio de innovación latinoamericano de InSTEDD</strong> creando software con fines humanitarios para Asia, Africa y América Latina. Fue pasante en Google en el equipo de Engineer Education.<br><br>Fue Ayudante de Segunda y Divulgadora del Departamento de Computación de la Facultad de Ciencias Exactas y Naturales de la UBA y participó como mentora en Programá tu Futuro en la sede Palermo.",
-        "tags": [
-            "Web",
-            "Community"
-        ],
-        "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/lauramorinigo"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/lalarayada"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/lauramorinigo/"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "featured": true,
+    "name": "Germán Quiróz Bogner",
+    "title": "Fullstack Developer",
+    "company": "GDG Córdoba",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Rosario, Argentina",
+    "photoUrl": "/images/people/german.png",
+    "shortBio": "Manager Google Developers Group Cordoba, Full Stack Developer Freelance",
+    "bio": "Manager Google Developers Group Cordoba, Full Stack Developer Freelance",
+    "tags": [
+      "Web",
+      "Polymer",
+      "Firebase"
+    ],
+    "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/carohadad"
-            }
-        ]
-    },
-    "8": {
-        "id": 8,
-        "featured": true,
-        "name": "Hernan Liendo",
-        "title": "Ingeniero",
-        "company": "ZupCat",
-        "companyLogo": "/images/logos/experts-logo.png",
-        "country": "Buenos Aires, Argentina",
-        "photoUrl": "/images/people/hernan.jpg",
-        "shortBio": "Hernan tiene casi 20 años de experiencia en IT, trabajando en empresas, además de ser el co-fundador de ZupCat. Es profesor de ingeniería en dos de las principales universidades de Buenos Aires.",
-        "bio": "Hernan tiene casi 20 años de experiencia en IT, trabajando en empresas, además de ser el co-fundador de ZupCat. Es profesor de ingeniería en dos de las principales universidades de Buenos Aires.<br>Como director de tecnología de ZupCat, Hernan ha diseñado juegos utilizados por más de 13 millones de usuarios en todo el mundo utilizando Google Cloud Platform. Estos juegos de alta calidad fueron coproducidos por algunos de los mejores editores de Asia, Europa y América del Norte.<br>Hernan es ingeniero en informática y fue galardonado con la 'mejor tesis del año' por su trabajo sobre la Web Semántica.",
-        "tags": [
-            "Cloud",
-            "Mobile",
-            "Kubernetes"
-        ],
-        "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/gquirozbogner"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "featured": true,
+    "name": "Mario Freiria",
+    "title": "Youtuber / Profe de guitarra",
+    "company": "Youtube",
+    "companyLogo": "",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/mario.jpg",
+    "shortBio": "Mario Freiria es músico y profesor de guitarra. Tiene un canal de Youtube donde enseña a tocar la guitarra.",
+    "bio": "Mario Freiria es músico y profesor de guitarra. Tiene un canal de Youtube donde enseña a tocar la guitarra.",
+    "tags": [
+      "Youtube",
+      "Educación",
+      "Guitarra"
+    ],
+    "badges": [
 
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/hernanliendo"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/hernanliendo"
-            }
-        ]
-    },
-    "9": {
-      "id": 9,
-      "featured": true,
-      "name": "Ezequiel Zanetta",
-      "title": "Android Developer",
-      "company": "Chicas en Tecnología",
-      "companyLogo": "/images/logos/android.svg",
-      "country": "Buenos Aires, Argentina",
-      "photoUrl": "/images/people/ezanetta.jpg",
-      "shortBio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio.",
-      "bio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio. Es de Necochea y vive en capital federal hace 8 años. Tiene varias apps publicadas en el store, la mas conocida es una llamada *Bastapp chicos* con mas de 75.000 descargas.",
-      "tags": [
-          "Android",
-          "Web"
-      ],
-      "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "youtube",
+        "name": "Youtube",
+        "link": "https://www.youtube.com/user/mariofreiria"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/tcdguitarra"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "featured": true,
+    "name": "Mauro Urani",
+    "title": "IOS Developer",
+    "company": "Apple",
+    "companyLogo": "",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/fogo.png",
+    "shortBio": "Co-Founder & CTO @Aviron_Arg iOS Dev y profe de #Swift",
+    "bio": "Co-Founder & CTO @Aviron_Arg iOS Dev y profe de #Swift en @EscuelaDevRock. también desarrollé BA Como Llego (nativa) - Gran Hermano - El Trece TV - C5N y más...",
+    "tags": [
+      "IOS",
+      "Swift",
+      "Firebase"
+    ],
+    "badges": [
 
-      ],
-      "socials": [
-          {
-              "icon": "twitter",
-              "name": "Twitter",
-              "link": "https://twitter.com/Estequiel_"
-          },
-          {
-              "icon": "github",
-              "name": "GitHub",
-              "link": "https://github.com/ezanetta"
-          }
-      ]
-    },
-    "10": {
-      "id": 10,
-      "featured": true,
-      "name": "Nicolás Bianchi",
-      "title": "Diseñador UX/UI",
-      "company": "GDG Montevideo",
-      "companyLogo": "/images/logos/gdg.svg",
-      "country": "Montevideo, Uruguay",
-      "photoUrl": "/images/people/nbianchi.jpg",
-      "shortBio": "Nicolás Bianchi ha trabajado por más de 10 años en agencias de publicidad y empresas de software y tecnología, desarrollando estrategias de diseño y marketing digital para éstas compañías y clientes de las mismas.",
-      "bio": "Nicolás Bianchi ha trabajado por más de 10 años en agencias de publicidad y empresas de software y tecnología, desarrollando estrategias de diseño y marketing digital para éstas compañías y clientes de las mismas.<br>Esto le ha permitido poder comprender ampliamente los diferentes procesos y mécanicas de trabajo en el área de marketing y desarrollo de producto desde los diferentes puntos de vista que cada una de éstas conllevan.<br>La posibilidad de trabajar para grandes compañias nacionales e internacionales le ha permitido desarrollar proyectos para clientes de la talla de Peugeot, Alfa Romeo, Mercedes Benz, Volkswagen, Claro, Pepsico, Christian Dior, Naciones Unidas (ONU), FAO, GEF, Universidad Católica, Petrobras, BBVA, entre otros.<br>A lo largo de los años ha adquirido mayor conocimiento en el desarrollo de la Experiencia de Usuario (UX), además del trabajo en Interfaz de Usuario (UI). Bajo éstas premisas ha estudiado en profunidad los diferentes conceptos de Usabilidad, Arquitectura de la Información y las diversas técnicas que se necesitan para realizar un proyecto óptimo con una UX lo mejor desarrollada posible. Un proceso de trabajo que en sus primeros años se centraba en la realización de un buen diseño e Interfaz de Usuario, cada día se enfoca más en el análisis, estudio del flujo del usuario en la interfaz, entre otros estudios analíticos para poder definir de mejor forma el resultado final a tratar.<br>Nicolás ha sido mentor (coach) en el área de MarketingDigital+Diseño+UX de reconocidos eventos internacionales como ser StartupWeekend, Lean Startup Machine, Google NextLevel Startup Reality (Argentina), entre otros. También ha sido co-organizador de Hackers&Founder Montevideo, y creador y co-organizador de uno de los eventos de tecnología más importantes del país, techMeetupUY, evento de +400 personas que busca integrar los diversos meetups que ocurren mensualmente durante el año, en un fin de semana cargado de tendencias y tecnologías.<br>Actualmente participa activamente, desde los inicios, en el Google Developer Groups Montevideo (Uruguay) como manager de la organización. Aquí se realizan meetups durante todo el año con una puesta a punto de todas las tendencias tecnológicas bajo el ecosistema Google, además de la organización del Google DevFest, evento anual tecnológico donde concurren más de 400 personas.<br>En cuanto a tema de cursos y charlas, Nicolás ha dictado diversos cursos de maquetación y diseño de interfaz de usuario con especial énfasis en UX, como así también dictado conferencias de *UX/UI Design* en Uruguay y la región.<br>También trabaja como consultor en UX/UI para startups, ayudando a éstas a desarrollar capacidades que muchas veces carecen o no saben como desarrollar en profunidad y de forma correcta.<br>Desde hace más de 3 años, Nicolás trabaja como CMO en una importante empresa de tecnología de Uruguay (+100 empleados con oficinas en la región) liderando el equipo donde desarrollan estrategias de Marketing Digital para la compañía y sus clientes, como así también el diseño y desarrollo de interfases de usuario en todos los proyectos que la compañía realiza.",
-      "tags": [
-          "UX",
-          "Web"
-      ],
-      "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/f0go"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": true,
+    "name": "Carolina Hadad",
+    "title": "Programadora",
+    "company": "Chicas en Tecnología",
+    "companyLogo": "/images/logos/cet.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/caro.png",
+    "shortBio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.",
+    "bio": "Caro es programadora. Es cofundadora de <strong>Chicas en Tecnología</strong>, una organización sin fines de lucro que busca derribar mitos y estereotipos en tecnología e inentivar a que más chicas la consideren la tecnología como una herremienta para resolver los problemas sociales importantes para ellas.<br><br>Trabajó en la <strong>Dirección Nacional de Datos del Ministerio de Modernización Argentino</strong> y en el  Laboratorio de Gobierno de la Ciudad de Buenos Aires coordinando equipos de desarrollo. Fue <strong>programadora en el laboratorio de innovación latinoamericano de InSTEDD</strong> creando software con fines humanitarios para Asia, Africa y América Latina. Fue pasante en Google en el equipo de Engineer Education.<br><br>Fue Ayudante de Segunda y Divulgadora del Departamento de Computación de la Facultad de Ciencias Exactas y Naturales de la UBA y participó como mentora en Programá tu Futuro en la sede Palermo.",
+    "tags": [
+      "Web",
+      "Community"
+    ],
+    "badges": [
 
-      ],
-      "socials": [
-        {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link": "https://twitter.com/nicobf"
-        },
-        {
-            "icon": "facebook",
-            "name": "Facebook",
-            "link": "https://www.facebook.com/nicolas.bianchi1"
-        },
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link": "https://uy.linkedin.com/in/nicolasbianchi1"
-        }
-      ]
-    },
-    "11": {
-      "id": 11,
-      "featured": true,
-      "name": "Jorge Cano",
-      "title": "Angular GDE",
-      "company": "GDE",
-      "companyLogo": "/images/logos/experts-logo.png",
-      "country": "Buenos Aires, Argentina",
-      "photoUrl": "/images/people/jorge.jpg",
-      "shortBio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript.",
-      "bio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en dia Jorge es Director de “departamento de nuevas tecnologías” en el cual prueba y decide qué tecnologías utilizar para brindar el mejor servicio performance y seguridad con Angular / Angular 2 / Firebase y otras tecnologías de punta. Profesor de varios cursos relacionados a javascript, Google Developer Expert, speaker internacional y escritor de artículos técnicos.",
-      "tags": [
-          "Angular",
-          "Firebase"
-      ],
-      "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/carohadad"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": true,
+    "name": "Hernan Liendo",
+    "title": "Ingeniero",
+    "company": "ZupCat",
+    "companyLogo": "/images/logos/experts-logo.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/hernan.jpg",
+    "shortBio": "Hernan tiene casi 20 años de experiencia en IT, trabajando en empresas, además de ser el co-fundador de ZupCat. Es profesor de ingeniería en dos de las principales universidades de Buenos Aires.",
+    "bio": "Hernan tiene casi 20 años de experiencia en IT, trabajando en empresas, además de ser el co-fundador de ZupCat. Es profesor de ingeniería en dos de las principales universidades de Buenos Aires.<br>Como director de tecnología de ZupCat, Hernan ha diseñado juegos utilizados por más de 13 millones de usuarios en todo el mundo utilizando Google Cloud Platform. Estos juegos de alta calidad fueron coproducidos por algunos de los mejores editores de Asia, Europa y América del Norte.<br>Hernan es ingeniero en informática y fue galardonado con la 'mejor tesis del año' por su trabajo sobre la Web Semántica.",
+    "tags": [
+      "Cloud",
+      "Mobile",
+      "Kubernetes"
+    ],
+    "badges": [
 
-      ],
-      "socials": [
-        {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link": "https://twitter.com/jorgeucano"
-        },
-        {
-            "icon": "github",
-            "name": "GitHub",
-            "link": "https://github.com/jorgeucano"
-        },
-        {
-            "icon": "website",
-            "name": "Website",
-            "link": "http://medium.com/@jorgeucano"
-        },
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link": "https://www.linkedin.com/in/jorge-cano-06441015"
-        }
-      ]
-    },
-    "12": {
-      "id": 12,
-      "featured": true,
-      "name": "Leonardo Pittelli",
-      "title": "Angular GDE",
-      "company": "GDE",
-      "companyLogo": "/images/logos/experts-logo.png",
-      "country": "Buenos Aires, Argentina",
-      "photoUrl": "/images/people/leo.jpeg",
-      "shortBio": "Leonardo es Software Engineer y Full stack developer. Es Google Developer Expert de Cloud. CTO en Convoy y fan de las tecnologías web.",
-      "bio": "Leonardo es Software Engineer y Full stack developer. Es Google Developer Expert de Cloud. CTO en Convoy y fan de las tecnologías web",
-      "tags": [
-          "Cloud",
-          "Web"
-      ],
-      "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/hernanliendo"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/hernanliendo"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "featured": true,
+    "name": "Ezequiel Zanetta",
+    "title": "Android Developer",
+    "company": "Chicas en Tecnología",
+    "companyLogo": "/images/logos/android.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/ezanetta.jpg",
+    "shortBio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio.",
+    "bio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio. Es de Necochea y vive en capital federal hace 8 años. Tiene varias apps publicadas en el store, la mas conocida es una llamada *Bastapp chicos* con mas de 75.000 descargas.",
+    "tags": [
+      "Android",
+      "Web"
+    ],
+    "badges": [
 
-      ],
-      "socials": [
-        {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link": "https://twitter.com/leopittelli"
-        },
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link": "https://www.linkedin.com/in/leopittelli"
-        }
-      ]
-    },
-    "13": {
-      "id": 13,
-      "featured": true,
-      "name": "Martin Rabaglia",
-      "title": "Ingeniero, músico",
-      "company": "Genosha",
-      "companyLogo": "",
-      "country": "Buenos Aires, Argentina",
-      "photoUrl": "/images/people/martinr.png",
-      "shortBio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.",
-      "bio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.<br>Trabaja como Director de Tecnología y Experiencias en Genosha, una agencia Argentina.<br>Martin participó como orador de eventos como SXSW, Media Party, MozFest y BAFICI.",
-      "tags": [
-          "VR"
-      ],
-      "badges": [
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/Estequiel_"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/ezanetta"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "featured": true,
+    "name": "Nicolás Bianchi",
+    "title": "Diseñador UX/UI",
+    "company": "GDG Montevideo",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Montevideo, Uruguay",
+    "photoUrl": "/images/people/nbianchi.jpg",
+    "shortBio": "Nicolás Bianchi ha trabajado por más de 10 años en agencias de publicidad y empresas de software y tecnología, desarrollando estrategias de diseño y marketing digital para éstas compañías y clientes de las mismas.",
+    "bio": "Nicolás Bianchi ha trabajado por más de 10 años en agencias de publicidad y empresas de software y tecnología, desarrollando estrategias de diseño y marketing digital para éstas compañías y clientes de las mismas.<br>Esto le ha permitido poder comprender ampliamente los diferentes procesos y mécanicas de trabajo en el área de marketing y desarrollo de producto desde los diferentes puntos de vista que cada una de éstas conllevan.<br>La posibilidad de trabajar para grandes compañias nacionales e internacionales le ha permitido desarrollar proyectos para clientes de la talla de Peugeot, Alfa Romeo, Mercedes Benz, Volkswagen, Claro, Pepsico, Christian Dior, Naciones Unidas (ONU), FAO, GEF, Universidad Católica, Petrobras, BBVA, entre otros.<br>A lo largo de los años ha adquirido mayor conocimiento en el desarrollo de la Experiencia de Usuario (UX), además del trabajo en Interfaz de Usuario (UI). Bajo éstas premisas ha estudiado en profunidad los diferentes conceptos de Usabilidad, Arquitectura de la Información y las diversas técnicas que se necesitan para realizar un proyecto óptimo con una UX lo mejor desarrollada posible. Un proceso de trabajo que en sus primeros años se centraba en la realización de un buen diseño e Interfaz de Usuario, cada día se enfoca más en el análisis, estudio del flujo del usuario en la interfaz, entre otros estudios analíticos para poder definir de mejor forma el resultado final a tratar.<br>Nicolás ha sido mentor (coach) en el área de MarketingDigital+Diseño+UX de reconocidos eventos internacionales como ser StartupWeekend, Lean Startup Machine, Google NextLevel Startup Reality (Argentina), entre otros. También ha sido co-organizador de Hackers&Founder Montevideo, y creador y co-organizador de uno de los eventos de tecnología más importantes del país, techMeetupUY, evento de +400 personas que busca integrar los diversos meetups que ocurren mensualmente durante el año, en un fin de semana cargado de tendencias y tecnologías.<br>Actualmente participa activamente, desde los inicios, en el Google Developer Groups Montevideo (Uruguay) como manager de la organización. Aquí se realizan meetups durante todo el año con una puesta a punto de todas las tendencias tecnológicas bajo el ecosistema Google, además de la organización del Google DevFest, evento anual tecnológico donde concurren más de 400 personas.<br>En cuanto a tema de cursos y charlas, Nicolás ha dictado diversos cursos de maquetación y diseño de interfaz de usuario con especial énfasis en UX, como así también dictado conferencias de *UX/UI Design* en Uruguay y la región.<br>También trabaja como consultor en UX/UI para startups, ayudando a éstas a desarrollar capacidades que muchas veces carecen o no saben como desarrollar en profunidad y de forma correcta.<br>Desde hace más de 3 años, Nicolás trabaja como CMO en una importante empresa de tecnología de Uruguay (+100 empleados con oficinas en la región) liderando el equipo donde desarrollan estrategias de Marketing Digital para la compañía y sus clientes, como así también el diseño y desarrollo de interfases de usuario en todos los proyectos que la compañía realiza.",
+    "tags": [
+      "UX",
+      "Web"
+    ],
+    "badges": [
 
-      ],
-      "socials": [
-        {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link": "https://twitter.com/tincho_for_ever"
-        },
-        {
-            "icon": "github",
-            "name": "GitHub",
-            "link": "https://github.com/tinchoforever"
-        }
-      ]
-    }
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/nicobf"
+      },
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/nicolas.bianchi1"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://uy.linkedin.com/in/nicolasbianchi1"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "featured": true,
+    "name": "Jorge Cano",
+    "title": "Angular GDE",
+    "company": "GDE",
+    "companyLogo": "/images/logos/experts-logo.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/jorge.jpg",
+    "shortBio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript.",
+    "bio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en dia Jorge es Director de “departamento de nuevas tecnologías” en el cual prueba y decide qué tecnologías utilizar para brindar el mejor servicio performance y seguridad con Angular / Angular 2 / Firebase y otras tecnologías de punta. Profesor de varios cursos relacionados a javascript, Google Developer Expert, speaker internacional y escritor de artículos técnicos.",
+    "tags": [
+      "Angular",
+      "Firebase"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/jorgeucano"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/jorgeucano"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://medium.com/@jorgeucano"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/jorge-cano-06441015"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "featured": true,
+    "name": "Leonardo Pittelli",
+    "title": "Angular GDE",
+    "company": "GDE",
+    "companyLogo": "/images/logos/experts-logo.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/leo.jpeg",
+    "shortBio": "Leonardo es Software Engineer y Full stack developer. Es Google Developer Expert de Cloud. CTO en Convoy y fan de las tecnologías web.",
+    "bio": "Leonardo es Software Engineer y Full stack developer. Es Google Developer Expert de Cloud. CTO en Convoy y fan de las tecnologías web",
+    "tags": [
+      "Cloud",
+      "Web"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/leopittelli"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/leopittelli"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "featured": true,
+    "name": "Martin Rabaglia",
+    "title": "Ingeniero, músico",
+    "company": "Genosha",
+    "companyLogo": "",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/martinr.png",
+    "shortBio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.",
+    "bio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.<br>Trabaja como Director de Tecnología y Experiencias en Genosha, una agencia Argentina.<br>Martin participó como orador de eventos como SXSW, Media Party, MozFest y BAFICI.",
+    "tags": [
+      "VR"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/tincho_for_ever"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/tinchoforever"
+      }
+    ]
+  }
 }
