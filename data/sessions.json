@@ -1,9 +1,61 @@
 {
-  "1": {
-      "id": 1,
-      "title": "Apertura del GDG DevRockersFest Buenos Aires 2016",
-      "description": "Apertura oficial del evento, presentación de los organizadores, sponsors, parners y comunidades.",
-      "language": "Español",
-      "image": "/images/backgrounds/opening.png"
+  "141": {
+    "id": 141,
+    "title": "¡Almuerzooooo!",
+    "description": "Hacemos un break para comer algo y seguimos.",
+    "image": "/images/backgrounds/lunch.jpg",
+    "track": "Hall Central"
+  },
+  "140": {
+    "id": 140,
+    "title": "Apertura del GDG DevRockersFest Buenos Aires 2016",
+    "description": "Apertura oficial del evento, presentación de los organizadores, sponsors, parners y comunidades.",
+    "language": "Español",
+    "image": "/images/backgrounds/opening.png",
+    "speakers": [
+      1,2,3
+    ]
+  },
+  "139": {
+    "id": 139,
+    "title": "TypeScript - Escribiendo aplicaciones JS robustas",
+    "description": "Que la tecnología se mueve a pasos agigantados ya no es una novedad.<br>Que nuestras aplicaciones deben de ser escritas preparadas para cambiar a gran velocidad tampoco lo es.<br>Y entre todo este mar de cambio, la pregunta que los invito a hacer es: Esta preparado JavaScript para poder cubrir estas necesidades. Sin lugar a duda que lo esta, pero los invito a conocer una tecnología que no viene a remplazar a JavaScript, si no que viene a potenciarla y a dotarla de nuevas características que nos ayudaran a generar aplicaciones robustas y preparadas para un mañana cada vez mas incierto.<br>Los invito a dejar de codear aplicaciones y a comenzar a diseñar aplicaciones.",
+    "language": "Español",
+    "speakers": [
+      15
+    ],
+    "complexity": "Intermedio",
+    "tags": [
+      "Web",
+      "TypeScript",
+      "JS"
+    ]
+  },
+  "138": {
+    "id": 138,
+    "title": "Lighting Talk: La década becada",
+    "description": "Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?",
+    "language": "Español",
+    "speakers": [
+      14
+    ],
+    "complexity": "",
+    "tags": [
+      "Educación"
+    ]
+  },
+  "137": {
+    "id": 137,
+    "title": "Firebase  + Swift 3",
+    "description": "En esta charla vamos a aprender como funciona Firebase en iOS y las novedades de Swift 3",
+    "language": "Español",
+    "speakers": [
+      6
+    ],
+    "complexity": "Intermedio",
+    "tags": [
+      "Firebase",
+      "Swift"
+    ]
   }
 }

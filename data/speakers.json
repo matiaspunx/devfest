@@ -1,13 +1,13 @@
 {
   "1": {
     "id": 1,
-    "featured": false,
+    "featured": true,
     "name": "Matias Punx",
     "title": "Developer Rockstar",
     "company": "Dev Rockers",
     "companyLogo": "/images/logos/gdg.svg",
     "country": "Buenos Aires, Argentina",
-    "photoUrl": "/images/people/punx.jpg",
+    "photoUrl": "/images/people/punx.png",
     "shortBio": "Matias es desarrollador y profe de programación",
     "bio": "Desarrollador y profe de programación en el Ministerio de Educación de la Ciudad de Buenos Aires y en Escuela Dev Rock",
     "tags": [
@@ -396,7 +396,7 @@
     "name": "Martin Rabaglia",
     "title": "Ingeniero, músico",
     "company": "Genosha",
-    "companyLogo": "",
+    "companyLogo": "/images/logos/genosha.svg",
     "country": "Buenos Aires, Argentina",
     "photoUrl": "/images/people/martinr.png",
     "shortBio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.",
@@ -417,6 +417,78 @@
         "icon": "github",
         "name": "GitHub",
         "link": "https://github.com/tinchoforever"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "featured": true,
+    "name": "María de los Ángeles Lasa",
+    "title": "Relaciones Internacionales",
+    "company": "Juegos Olímpicos de la Juventud Buenos Aires 2018",
+    "companyLogo": "",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/lasa.png",
+    "shortBio": "María de los Ángeles Lasa (1986) es Licenciada en Relaciones Internacionales (Universidad Católica de Córdoba) y Doctora en Ciencias Políticas y Sociales (ISAS, Università degli Studi di Camerino).",
+    "bio": "María de los Ángeles Lasa (1986) es Licenciada en Relaciones Internacionales (Universidad Católica de Córdoba) y Doctora en Ciencias Políticas y Sociales (ISAS, Università degli Studi di Camerino).<br>Ha realizado estudios de posgrado e instancias de investigación en universidades de Colombia, España y Estados Unidos y ha sido becaria del Gobierno Italiano, Fundación Carolina, la Konrad-Adenauer-Stiftung, el Departamento de Estado y Comisión Fulbright, entre otras prestigiosas fundaciones.<br>Sus ensayos sobre temáticas vinculadas a la corrupción pública, el desarrollo y el narcotráfico, han sido premiados por el Banco Mundial, el St. Gallen Symposium, el Gobierno de Suecia, el Gobierno de Bélgica, la UNESCO y la Goi Peace Foundation de Japón.<br>Fue oradora TEDxUniversidadCatólicadeCórdoba (2016). Cuenta con trabajos académicos publicados en Argentina y el exterior. Se desempeña actualmente como Analista Sr. de Legado en los Juegos Olímpicos de la Juventud Buenos Aires 2018.",
+    "tags": [
+      "RRII",
+      "Educación"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/Condolasa"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/marialasa"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://medium.com/@condolasa"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "featured": true,
+    "name": "Germán Küber",
+    "title": ".Net Development",
+    "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/germank.jpg",
+    "shortBio": "Germán tiene mas de 7 años de experiencia en el mundo de desarrollo Back End (especialmente inmerso en el ecosistema Microsoft).",
+    "bio": "Germán tiene mas de 7 años de experiencia en el mundo de desarrollo Back End (especialmente inmerso en el ecosistema Microsoft).<br>Hace 2 años que se desempeña como desarrollador Front End.<br>Amante de la tecnología y apasionado por la arquitectura.<br>Creador de la comunidad de [.Net de Buenos Aires](http://net-baires.com.ar)",
+    "tags": [
+      "Web",
+      ".Net"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/germankuber"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://ar.linkedin.com/in/germankuber"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://germankuber.com.ar/"
       }
     ]
   }

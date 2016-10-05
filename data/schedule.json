@@ -5,12 +5,32 @@
         "title": "Sala C"
     }, {
         "title": "Sala D"
+    }, {
+        "title": "Taller"
     }],
     "timeslots": [{
         "startTime": "11:00",
-        "endTime": "12:00",
+        "endTime": "11:50",
         "sessions": [
-            [1]
+            [140]
+        ]
+    },{
+        "startTime": "12:00",
+        "endTime": "12:50",
+        "sessions": [
+            [139]
+        ]
+    },{
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "sessions": [
+            [141]
+        ]
+    },{
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "sessions": [
+            [137]
         ]
     }]
 }]
