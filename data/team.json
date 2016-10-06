@@ -4,7 +4,7 @@
     "members": [
       {
         "name": "Matias Punx",
-        "photoUrl": "/images/people/punx.jpg",
+        "photoUrl": "/images/people/punx.png",
         "socials": [
           {
             "icon": "gplus",
@@ -20,11 +20,6 @@
             "icon": "twitter",
             "link": "https://twitter.com/antirockstars",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://devrockers.com",
-            "name": "Blog"
           }
         ],
         "title": "Website y sponsors"
@@ -35,13 +30,18 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+lauramorinigo",
+            "link": "https://plus.google.com/u/0/103431131453381392397",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/laura.morinigo",
+            "link": "https://www.facebook.com/lala.morinigo?fref=ts",
             "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://www.twitter.com/lalarayada",
+            "name": "Twitter"
           }
         ],
         "title": "Sponsors, Social y media"

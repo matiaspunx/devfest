@@ -33,11 +33,11 @@
   },
   "138": {
     "id": 138,
-    "title": "[Lighting Talk] La década becada",
-    "description": "Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?",
+    "title": "Lighting Talks!",
+    "description": "**La década becada**<br>Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?",
     "language": "Español",
     "speakers": [
-      14
+      14,12
     ],
     "complexity": "",
     "tags": [
@@ -54,9 +54,9 @@
     ],
     "complexity": "Intermedio",
     "tags": [
+      "IOS",
       "Firebase",
-      "Swift",
-      "iOS"
+      "Swift"
     ]
   },
   "136": {
@@ -140,6 +140,34 @@
     "complexity": "Intermedio",
     "tags": [
       "Android"
+    ]
+  },
+  "130": {
+    "id": 130,
+    "title": "Apollo we have a client ",
+    "description": "Apollo es un cliente para GraphQl, que podemos usar con Angular2. Lo más nuevo y más rockero de la data para el frontend. GraphQl es la nueva forma de diseñar API, el último grito del frontend en nuestro universo y como ya sabemos Angular2 volvió a revolucionar el frontend. En la charla vamos a pasar por todas estas tecnologías 🤘",
+    "language": "Español",
+    "speakers": [
+      11
+    ],
+    "complexity": "Intermedio",
+    "tags": [
+      "Angular JS2",
+      "Web"
+    ]
+  },
+  "129": {
+    "id": 129,
+    "title": "Chicas en Tecnología",
+    "description": "Charla Desc.",
+    "language": "Español",
+    "speakers": [
+      7
+    ],
+    "complexity": "Inicial",
+    "tags": [
+      "Educación",
+      "Comunidad"
     ]
   }
 }

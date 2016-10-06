@@ -38,5 +38,17 @@
         "sessions": [
             [137],[134]
         ]
+    },{
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "sessions": [
+            [130],[138]
+        ]
+    },{
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "sessions": [
+            [131], [129]
+        ]
     }]
 }]
