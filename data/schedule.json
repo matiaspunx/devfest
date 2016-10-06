@@ -9,16 +9,22 @@
         "title": "Taller"
     }],
     "timeslots": [{
+        "startTime": "10:30",
+        "endTime": "11:00",
+        "sessions": [
+            [140]
+        ]
+    },{
         "startTime": "11:00",
         "endTime": "11:50",
         "sessions": [
-            [140]
+            [139]
         ]
     },{
         "startTime": "12:00",
         "endTime": "12:50",
         "sessions": [
-            [139]
+            [135]
         ]
     },{
         "startTime": "13:00",
@@ -30,7 +36,7 @@
         "startTime": "14:00",
         "endTime": "14:50",
         "sessions": [
-            [137]
+            [137],[134]
         ]
     }]
 }]
