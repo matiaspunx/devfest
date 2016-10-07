@@ -432,8 +432,8 @@
     "shortBio": "María de los Ángeles Lasa (1986) es Licenciada en Relaciones Internacionales (Universidad Católica de Córdoba) y Doctora en Ciencias Políticas y Sociales (ISAS, Università degli Studi di Camerino).",
     "bio": "María de los Ángeles Lasa (1986) es Licenciada en Relaciones Internacionales (Universidad Católica de Córdoba) y Doctora en Ciencias Políticas y Sociales (ISAS, Università degli Studi di Camerino).<br>Ha realizado estudios de posgrado e instancias de investigación en universidades de Colombia, España y Estados Unidos y ha sido becaria del Gobierno Italiano, Fundación Carolina, la Konrad-Adenauer-Stiftung, el Departamento de Estado y Comisión Fulbright, entre otras prestigiosas fundaciones.<br>Sus ensayos sobre temáticas vinculadas a la corrupción pública, el desarrollo y el narcotráfico, han sido premiados por el Banco Mundial, el St. Gallen Symposium, el Gobierno de Suecia, el Gobierno de Bélgica, la UNESCO y la Goi Peace Foundation de Japón.<br>Fue oradora TEDxUniversidadCatólicadeCórdoba (2016). Cuenta con trabajos académicos publicados en Argentina y el exterior. Se desempeña actualmente como Analista Sr. de Legado en los Juegos Olímpicos de la Juventud Buenos Aires 2018.",
     "tags": [
-      "RRII",
-      "Educación"
+      "Educación",
+      "RRII"
     ],
     "badges": [
 
@@ -489,6 +489,104 @@
         "icon": "website",
         "name": "Website",
         "link": "http://germankuber.com.ar/"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "featured": true,
+    "name": "Cecilia Hvalsöe",
+    "title": "Diseñadora Multimedia",
+    "company": "Intec",
+    "companyLogo": "/images/logos/intec.jpg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/ceci.png",
+    "shortBio": "Cecilia Hvalsöe es Diseñadora Multimedia y Docente.<br>Actualmente desempeña sus tareas en el Ministerio de Educación de la Ciudad de Buenos Aires, como FPD, acompañando a los docentes y directivos en la planificación de actividades incluyendo nuevas tecnologías.",
+    "bio": "Cecilia Hvalsöe es Diseñadora Multimedia y Docente.<br>Actualmente desempeña sus tareas en el Ministerio de Educación de la Ciudad de Buenos Aires, como FPD, acompañando a los docentes y directivos en la planificación de actividades incluyendo nuevas tecnologías. Desde este ámbito y otros espacios, desarrolla proyectos digitales con propuestas participativas vinculadas a la educación, el arte y la cultura, que favorezcan la creatividad, la inclusión social y el respeto a la diversidad. Le interesan las iniciativas innovadoras de convergencia, que desafíen las fronteras entre medios, arte, cultura y educación.<br>Trabaja con Robótica desde el año 2010, apostando por este recurso educativo como una herramienta para trabajar y acceder a los contenidos del currículo de un modo diferente. Iniciando también al alumnado en los lenguajes de programación de una manera lúdica, como una nueva manera de expresión, comunicación y creación con un lenguaje propio como el musical, artístico, audiovisual, matemático o lingüístico. 'Saber programar/codificar permitirá a nuestros alumnos crear juegos, animaciones, postales digitales, escenas interactivas... una nueva manera de expresarse y comunicarse sin necesidad de ser programadores profesionales y que sin duda a la velocidad que se producen los cambios, serán habilidades imprescindibles para los próximos años'.<br>Desarrollar las capacidades creativas y de organización, fomentar el trabajo en grupo, promover la necesidad de experimentar y de descubrir nuevas habilidades, el interés por investigar son algunos de los objetivos de la robótica educativa, un método de aprendizaje basado en la corriente pedagógica del constructivismo que promueve el diseño y la elaboración de creaciones propias.",
+    "tags": [
+      "Educación",
+      "Comunidad"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/cecy.hvalsoe"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/cecilia-hvalsoe"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "featured": true,
+    "name": "Nicolas Bello Camilletti",
+    "title": "Ingeniero en informática",
+    "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/nicolasb.jpeg",
+    "shortBio": "Nicolas es ingeniero en informática y full-stack developer que trabaja en Southworks. Aparte de esto, es Microsoft MVP (Most Valuable Professional).",
+    "bio": "Nicolas es ingeniero en informática y full-stack developer que trabaja en Southworks. Aparte de esto, es Microsoft MVP (Most Valuable Professional). Normalmente trabaja con las últimas tecnologías especialmente relacionadas con Cloud Computing y Web Development usando C# y node.js. Aparte organiza los meetup de Cloud Computing y Net-Baires.",
+    "tags": [
+      "Angular",
+      "ASP.Net"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/nbellocam"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "http://github.com/nbellocam"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://ar.linkedin.com/in/nbellocamilletti"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://blog.nbellocam.me/"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "featured": true,
+    "name": "Carolina Bensabat",
+    "title": "Lic. en Ciencias de la Educación",
+    "company": "Intec",
+    "companyLogo": "/images/logos/intec.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/carob.jpg",
+    "shortBio": "Licenciada en Ciencias de la Educación, Profesora de TIC. Trabaja en el marco del Modelo 1 a 1. Amante de la vida en movimiento y la actividad física al aire libre",
+    "bio": "Licenciada en Ciencias de la Educación, Profesora de TIC. Trabaja en el marco del Modelo 1 a 1. Amante de la vida en movimiento y la actividad física al aire libre",
+    "tags": [
+      "Educación",
+      "Comunidades"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/CBensabat"
       }
     ]
   }

@@ -6,7 +6,7 @@
     }, {
         "title": "Sala D"
     }, {
-        "title": "Taller"
+        "title": "Laboratorio"
     }],
     "timeslots": [{
         "startTime": "10:30",
@@ -18,13 +18,15 @@
         "startTime": "11:00",
         "endTime": "11:50",
         "sessions": [
-            [139]
+            [139],
+            [128]
         ]
     },{
         "startTime": "12:00",
         "endTime": "12:50",
         "sessions": [
-            [135]
+            [135],
+            [127]
         ]
     },{
         "startTime": "13:00",
@@ -48,7 +50,32 @@
         "startTime": "16:00",
         "endTime": "16:50",
         "sessions": [
-            [131], [129]
+            [131], [129], [126]
+        ]
+    },{
+        "startTime": "17:00",
+        "endTime": "17:25",
+        "sessions": [
+            [143]
+        ]
+    },{
+        "startTime": "17:30",
+        "endTime": "18:20",
+        "sessions": [
+          [136],
+          [132]
+        ]
+    },{
+        "startTime": "18:30",
+        "endTime": "19:20",
+        "sessions": [
+          [133]
+        ]
+    },{
+        "startTime": "19:30",
+        "endTime": "20:00",
+        "sessions": [
+            [142]
         ]
     }]
 }]

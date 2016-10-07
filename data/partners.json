@@ -22,7 +22,7 @@
       },
       {
         "name": "Mulesoft",
-        "url": "https://www.mulesoft.com/",
+        "url": "https://www.mulesoft.com/careers/job-search/buenos-aires",
         "logoUrl": "../images/logos/mulesoft.svg",
         "width": 250,
         "height": 150
@@ -94,6 +94,12 @@
         "name": "NG-Baires",
         "url": "https://twitter.com/ngbaires",
         "logoUrl": "../images/logos/ngbaires.jpeg",
+        "width": 120
+      },
+      {
+        "name": "Baires Web",
+        "url": "https://www.meetup.com/es-ES/bairesweb/",
+        "logoUrl": "../images/logos/bairesweb.png",
         "width": 120
       }
     ]
