@@ -589,5 +589,129 @@
         "link": "http://twitter.com/CBensabat"
       }
     ]
+  },
+  "19": {
+    "id": 19,
+    "featured": true,
+    "name": "Federico Pacheco",
+    "title": "Especialista en Seguridad de la Información",
+    "company": "ISSA Argentina",
+    "companyLogo": "/images/logos/issa.jpg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/fedep.jpg",
+    "shortBio": "Especialista en Seguridad de la Información, formado en Ingeniería Electrónica. Speaker internacional. Presidente de la ONG ISSA Argentina.",
+    "bio": "Especialista en Seguridad de la Información, formado en Ingeniería Electrónica. Speaker internacional. Presidente de la ONG ISSA Argentina. Profesor en la Universidad Tecnológica Nacional (UTN). Ha publicado 4 libros y varios trabajos de investigación. Tan inquieto que no sabe quedarse mucho tiempo dentro de la zona de confort.",
+    "tags": [
+      "Educación"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "http://twitter.com/FedeQuark"
+      },{
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "http://facebook.com/fedequark"
+      },{
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "http://linkedin.com/in/federicopacheco"
+      },{
+        "icon": "youtube",
+        "name": "YouTube",
+        "link": "https://www.youtube.com/c/VisualAnanda"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "featured": true,
+    "name": "Federico Aloi",
+    "title": "Docente, programador",
+    "company": "Mumuki",
+    "companyLogo": "/images/logos/logo-alt-large.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/faloi.jpg",
+    "shortBio": "Docente, programador, fiel defensor del software y el conocimiento libre.",
+    "bio": "Docente, programador, fiel defensor del software y el conocimiento libre. Convencido de que saber programar es imprescindible para entender el mundo en el que vivimos hoy, trabajo activamente desde Proyecto Mumuki para que el aprendizaje de la computación sea más inclusivo.",
+    "tags": [
+      "Educación"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/federicoaloi"
+      },{
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/faloi"
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "featured": true,
+    "name": "Franco Bulgarelli",
+    "title": "Docente, programador",
+    "company": "Mumuki",
+    "companyLogo": "/images/logos/logo-alt-large.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/franco.jpg",
+    "shortBio": "Docente, programador, fiel defensor del software y el conocimiento libre.",
+    "bio": "Ingeniero en sistemas. Se puede disfrazar de varias cosas: programador, docente, líder de proyecto, arquitecto de software. También es chelista, violinista aficionado y pésimo cebador de mate.<br>En diciembre de 2015 con Federico Aloi y otros programadores (re)fundamor Mumuki, un proyecto para enseñar a programar con software y contenido libre.",
+    "tags": [
+      "Educación"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/MumukiProject"
+      },{
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/flbulgarelli"
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "featured": true,
+    "name": "Ernesto Ledesma",
+    "title": "Ingeniero en Software",
+    "company": "GDG",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Entre Ríos, Argentina",
+    "photoUrl": "/images/people/tito.png",
+    "shortBio": "Manager y Organizador del GDG Entre Rios, como miembro activo de la comunidad de desarrolladores.",
+    "bio": "Manager y Organizador del GDG Entre Rios, como miembro activo de la comunidad de desarrolladores.",
+    "tags": [
+      "Educación"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "gplus",
+        "name": "Gplus",
+        "link": "https://plus.google.com/+ErnestoLedesma"
+      },{
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/erneledesma"
+      }
+    ]
   }
 }

@@ -50,10 +50,10 @@
   "138": {
     "id": 138,
     "title": "Lightning talks!",
-    "description": "* **La década becada**<br>Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?",
+    "description": "**La década becada** (*María de los Ángeles Lasa*)<br>Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?<br><br>**Un upgrade para la educación** (*Federico Pacheco*)<br>Un recorrido por las tecnologías aplicadas a la educación y la ruptura de paradigmas actual.",
     "language": "Español",
     "speakers": [
-      14
+      14,19
     ],
     "complexity": "",
     "tags": [
@@ -168,7 +168,7 @@
     ],
     "complexity": "Intermedio",
     "tags": [
-      "Angular JS2",
+      "Angular",
       "Web"
     ]
   },
@@ -227,6 +227,33 @@
     "tags": [
       "Angular",
       "ASP.Net"
+    ]
+  },
+  "125": {
+    "id": 125,
+    "title": "Mumuki: Aprendé a programar",
+    "description": "Introducción al proyecto Mumuki. Los desafíos e innovaciones didácticas de la plataforma de aprendizaje. Backstage: ¿Cómo está hecho Mumuki?",
+    "language": "Español",
+    "speakers": [
+      20,21
+    ],
+    "complexity": "Inicial",
+    "tags": [
+      "Educación"
+    ]
+  },
+  "124": {
+    "id": 124,
+    "title": "Android + Firebase",
+    "description": "Vamos a implementar notificaciones push en una app hibrida para Android con Firebase.<br><br>*Si queres realizar el taller es necesario que traigas tu propia computadora y por favor cuidala.*",
+    "language": "Español",
+    "speakers": [
+      22
+    ],
+    "complexity": "Inicial",
+    "tags": [
+      "Android",
+      "Firebase"
     ]
   }
 }
