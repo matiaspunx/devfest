@@ -572,7 +572,7 @@
     "company": "Intec",
     "companyLogo": "/images/logos/intec.png",
     "country": "Buenos Aires, Argentina",
-    "photoUrl": "/images/people/carob.jpg",
+    "photoUrl": "/images/people/carob.png",
     "shortBio": "Licenciada en Ciencias de la Educación, Profesora de TIC. Trabaja en el marco del Modelo 1 a 1. Amante de la vida en movimiento y la actividad física al aire libre",
     "bio": "Licenciada en Ciencias de la Educación, Profesora de TIC. Trabaja en el marco del Modelo 1 a 1. Amante de la vida en movimiento y la actividad física al aire libre",
     "tags": [
@@ -711,6 +711,31 @@
         "icon": "github",
         "name": "GitHub",
         "link": "https://github.com/erneledesma"
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "featured": true,
+    "name": "José Sahad",
+    "title": "Engineering Manager",
+    "company": "MuleSoft",
+    "companyLogo": "/images/logos/mulesoft.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/jose.jpeg",
+    "shortBio": "Engineering Manager en MuleSoft. Actualmente liderando la iniciativa de Hybrid Management y API Platform para Anypoint Platform.",
+    "bio": "Engineering Manager en MuleSoft. Actualmente liderando la iniciativa de Hybrid Management y API Platform para Anypoint Platform. Anteriormente Software Engineer y Project Manager. En los tiempos libres un mediocre músico fullstack e intento de historiador",
+    "tags": [
+      "Micro Services"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/josesahad"
       }
     ]
   }
