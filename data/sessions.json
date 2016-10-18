@@ -256,5 +256,45 @@
       "Android",
       "Firebase"
     ]
+  },
+  "123": {
+    "id": 123,
+    "title": "UX Content Strategy",
+    "description": "Malas noticias: ¡los usuarios no leen! No importa: hay una forma de escribir para ellos y acá la contamos. Con UX + edición + diseño de producto, veremos cómo armar textos con criterios básicos de escritura web para que los usuarios y la interfaz no se lleven como perro y gato.",
+    "language": "Español",
+    "speakers": [
+      24
+    ],
+    "complexity": "Inicial",
+    "tags": [
+      "UX"
+    ]
+  },
+  "122": {
+    "id": 122,
+    "title": "Lightning talks!",
+    "description": "**Hello School!** *(Simón Yagas, Esteban Piazza)*<br>Dos docentes cuentan sus experiencias y resultados de enseñar programación en escuelas a gente normal.",
+    "language": "Español",
+    "speakers": [
+      25
+    ],
+    "complexity": "Inicial",
+    "tags": [
+      "Educación"
+    ]
+  },
+  "121": {
+    "id": 121,
+    "title": "Taller de Progressive Web Apps con Polymer",
+    "description": "En este taller vamos a aprender sobre el nuevo paradigma de las Progressive Web Apps y como armar una App en 3 dias con Polymer + Polymer Cli.",
+    "language": "Español",
+    "speakers": [
+      4
+    ],
+    "complexity": "Intermedio",
+    "tags": [
+      "Polymer",
+      "PWA"
+    ]
   }
 }

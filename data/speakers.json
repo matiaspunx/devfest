@@ -260,8 +260,8 @@
     "companyLogo": "/images/logos/android.svg",
     "country": "Buenos Aires, Argentina",
     "photoUrl": "/images/people/ezanetta.jpg",
-    "shortBio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio.",
-    "bio": "Ezequiel Zanetta tiene 28 años, se dedica a la programacion de manera profesional hace un poco mas de 5 años y al desarrollo Android hace 2 años y medio. Es de Necochea y vive en capital federal hace 8 años. Tiene varias apps publicadas en el store, la mas conocida es una llamada *Bastapp chicos* con mas de 75.000 descargas.",
+    "shortBio": "Ezequiel Zanetta tiene 28 años, es programador y músico. Oriundo de Necochea, pero hace 8 años vive en Capital Federal.",
+    "bio": "Ezequiel Zanetta tiene 28 años, es programador y músico. Oriundo de Necochea, pero hace 8 años vive en Capital Federal. Tiene varias apps publicadas en el store, la mas conocida es *Bastapp chicos*, con mas de 90.000 descargas",
     "tags": [
       "Android",
       "Web"
@@ -390,36 +390,6 @@
       }
     ]
   },
-  "13": {
-    "id": 13,
-    "featured": true,
-    "name": "Martin Rabaglia",
-    "title": "Ingeniero, músico",
-    "company": "Genosha",
-    "companyLogo": "/images/logos/genosha.svg",
-    "country": "Buenos Aires, Argentina",
-    "photoUrl": "/images/people/martinr.png",
-    "shortBio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.",
-    "bio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.<br>Trabaja como Director de Tecnología y Experiencias en Genosha, una agencia Argentina.<br>Martin participó como orador de eventos como SXSW, Media Party, MozFest y BAFICI.",
-    "tags": [
-      "VR"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/tincho_for_ever"
-      },
-      {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/tinchoforever"
-      }
-    ]
-  },
   "14": {
     "id": 14,
     "featured": true,
@@ -461,8 +431,8 @@
     "featured": true,
     "name": "Germán Küber",
     "title": ".Net Development",
-    "company": "Microsoft",
-    "companyLogo": "/images/logos/microsoft.png",
+    "company": ".Net Developer",
+    "companyLogo": "",
     "country": "Buenos Aires, Argentina",
     "photoUrl": "/images/people/germank.jpg",
     "shortBio": "Germán tiene mas de 7 años de experiencia en el mundo de desarrollo Back End (especialmente inmerso en el ecosistema Microsoft).",
@@ -528,8 +498,8 @@
     "featured": true,
     "name": "Nicolas Bello Camilletti",
     "title": "Ingeniero en informática",
-    "company": "Microsoft",
-    "companyLogo": "/images/logos/microsoft.png",
+    "company": ".Net developer",
+    "companyLogo": "",
     "country": "Buenos Aires, Argentina",
     "photoUrl": "/images/people/nicolasb.jpeg",
     "shortBio": "Nicolas es ingeniero en informática y full-stack developer que trabaja en Southworks. Aparte de esto, es Microsoft MVP (Most Valuable Professional).",
@@ -570,7 +540,7 @@
     "name": "Carolina Bensabat",
     "title": "Lic. en Ciencias de la Educación",
     "company": "Intec",
-    "companyLogo": "/images/logos/intec.png",
+    "companyLogo": "/images/logos/intec.jpg",
     "country": "Buenos Aires, Argentina",
     "photoUrl": "/images/people/carob.png",
     "shortBio": "Licenciada en Ciencias de la Educación, Profesora de TIC. Trabaja en el marco del Modelo 1 a 1. Amante de la vida en movimiento y la actividad física al aire libre",
@@ -736,6 +706,72 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/josesahad"
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "featured": true,
+    "name": "Marisol Parnofiello",
+    "title": "UX Content Specialist",
+    "company": "Datosgobar",
+    "companyLogo": "/images/logos/datosarg.png",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/sol.jpg",
+    "shortBio": "Sol —así le dicen— estudió Ciencias de la Comunicación en la UBA e hizo su tesis sobre el filósofo Georges Bataille. Durante muchos años fue periodista en Clarín: entrevistó  a Roger Waters y a Jon Snow.",
+    "bio": "Sol —así le dicen— estudió Ciencias de la Comunicación en la UBA e hizo su tesis sobre el filósofo Georges Bataille. Durante muchos años fue periodista en Clarín: entrevistó  a Roger Waters y a Jon Snow.<br>Trabajó en el equipo de UX de Mercado Libre: quiso entender ahí cómo se lee en internet. Lo que aprendió le encanta. Vivió en Londres y, durante un año seguido, su mundo fue solo invierno.<br>Hoy es especialista en contenidos UX en el equipo de Datos del Ministerio de Modernización de Argentina.<br>Sol cree que leer salva. Y es muy, pero muy, fan de las vacas.",
+    "tags": [
+      "UX",
+      "Datos Abiertos"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/solpar"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/solpar"
+      },
+      {
+        "icon": "link",
+        "name": "LinkedIn",
+        "link": "https://ar.linkedin.com/in/solparnofiello"
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "featured": true,
+    "name": "Simón Yagas, Esteban Piazza",
+    "title": "Hello School!",
+    "company": "Intec",
+    "companyLogo": "/images/logos/intec.jpg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/simone.jpg",
+    "shortBio": "",
+    "bio": "",
+    "tags": [
+      "Educación"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/SimonYagas"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/estebanpiazza"
       }
     ]
   }
