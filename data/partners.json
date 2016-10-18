@@ -79,6 +79,12 @@
         "width": 170
       },
       {
+        "name": "Media Chicas",
+        "url": "http://www.mediachicas.com/",
+        "logoUrl": "../images/logos/media-chicas.png",
+        "width": 200
+      },
+      {
         "name": "Buenos Aires Cloud Computing",
         "url": "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/",
         "logoUrl": "../images/logos/bacloud.png",

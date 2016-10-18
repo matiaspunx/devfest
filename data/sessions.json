@@ -50,14 +50,15 @@
   "138": {
     "id": 138,
     "title": "Lightning talks!",
-    "description": "**La década becada** (*María de los Ángeles Lasa*)<br>Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?<br><br>**Un upgrade para la educación** (*Federico Pacheco*)<br>Un recorrido por las tecnologías aplicadas a la educación y la ruptura de paradigmas actual.",
+    "description": "**La década becada** (*María de los Ángeles Lasa*)<br>Entre 2004-2014, gané más de veinte becas educativas por un monto estimado de U$ 130.000. La pregunta es, ¿por qué? ¿Por qué yo acumulé tantas y otros nunca ganan ninguna? ¿Es un problema de capacidades personales o, peor aún, del sistema de financiamiento de la educación?<br><br>**Un upgrade para la educación** (*Federico Pacheco*)<br>Un recorrido por las tecnologías aplicadas a la educación y la ruptura de paradigmas actual.<br><br>**Building microservices, the wrong way** (*José Sahad*)<br>Es difícil pensar en algo más atractivo que el término microservicios para los que construímos software. Pero, es la bala de plata para todos los males de nuestros días? Podemos tener más tiempo para jugar al Pokemon Go si escribimos cada pedazo de código como un microservicio? Esta charla no tiene la respuesta a todas las preguntas pero trata de ser una breve muestra de nuestra experiencia al escribir software a gran escala, todos los errores que cometimos (de los que nos dimos cuenta hasta ahora) y los desafíos que identificamos para el futuro.",
     "language": "Español",
     "speakers": [
-      14,19
+      14,19,23
     ],
     "complexity": "",
     "tags": [
-      "Educación"
+      "Educación",
+      "Micro Services"
     ]
   },
   "137": {
@@ -232,7 +233,7 @@
   "125": {
     "id": 125,
     "title": "Mumuki: Aprendé a programar",
-    "description": "Introducción al proyecto Mumuki. Los desafíos e innovaciones didácticas de la plataforma de aprendizaje. Backstage: ¿Cómo está hecho Mumuki?",
+    "description": "Mumuki, la plataforma libre para enseñar a programar.<br>Vamos a contarles sobre Proyecto Mumuki, que surge del sueño de que todos puedan programar y su plataforma, íntegramente conformada por contenido y software libre.<br>Mostraremos el camino recorrido, los desafíos tecnológicos, arquitecturales y didácticos, y presentaremos lo que se viene.",
     "language": "Español",
     "speakers": [
       20,21
@@ -245,7 +246,7 @@
   "124": {
     "id": 124,
     "title": "Android + Firebase",
-    "description": "Vamos a implementar notificaciones push en una app hibrida para Android con Firebase.<br><br>*Si queres realizar el taller es necesario que traigas tu propia computadora y por favor cuidala.*",
+    "description": "Vamos a implementar notificaciones push en una app para Android con Firebase.<br><br>*Si queres realizar el taller es necesario que traigas tu propia computadora y por favor cuidala.*",
     "language": "Español",
     "speakers": [
       22
