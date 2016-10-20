@@ -1,4 +1,11 @@
 {
+  "144": {
+    "id": 144,
+    "title": "Inicio y acreditaciones",
+    "description": "Nos acreditamos y tomamos un cafecito",
+    "image": "/images/backgrounds/checkin.png",
+    "track": "Hall Central"
+  },
   "143": {
     "id": 143,
     "title": "¡Merienda!",
@@ -193,7 +200,7 @@
     "description": "Esta charla se basa en las experiencias vividas con la apliación del juego: '**Code Baymax**'. Éste, es un juego de lógica y una herramienta para entender los conceptos básicos de la programación. Es una manera entretenida de explorar el pensamiento computacional y desarrollar habilidades de resolución de problemas. Desarrollado por Chicos.Net",
     "language": "Español",
     "speakers": [
-      16
+      16, 28
     ],
     "complexity": "Inicial",
     "tags": [
@@ -273,10 +280,10 @@
   "122": {
     "id": 122,
     "title": "Lightning talks!",
-    "description": "**Hello School!** *(Simón Yagas, Esteban Piazza)*<br>Dos docentes cuentan sus experiencias y resultados de enseñar programación en escuelas a gente normal.",
+    "description": "**Hello School!** *(Simón Yagas, Esteban Piazza)*<br>Dos docentes cuentan sus experiencias y resultados de enseñar programación en escuelas a gente normal.<br><br>**¿Porque la necesidad de innovar en Educación?** *(Diego Portillo)*<br>Las aulas se revolucionan con las TIC, los dispositivos digitales como recursos pedagógicos para lograr aprendizajes significativos y la educación digital como campo de conocimiento emergente que garantiza la inclusión social.",
     "language": "Español",
     "speakers": [
-      25
+      25,27
     ],
     "complexity": "Inicial",
     "tags": [
@@ -295,6 +302,21 @@
     "tags": [
       "Polymer",
       "PWA"
+    ]
+  },
+  "120": {
+    "id": 120,
+    "title": "Historias con mapas...",
+    "description": "Vamos a hacer un torque con repercusiones de tweets geolocalizados y varios cloropleths de femicidios por provincia y repercusiones por provincia.",
+    "language": "Español",
+    "speakers": [
+      26
+    ],
+    "complexity": "Intermedio",
+    "tags": [
+      "Big Data",
+      "Maps",
+      "Twitter API"
     ]
   }
 }

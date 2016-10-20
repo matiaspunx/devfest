@@ -1,40 +1,4 @@
 {
-  "1": {
-    "id": 1,
-    "featured": true,
-    "name": "Matias Punx",
-    "title": "Developer Rockstar",
-    "company": "Dev Rockers",
-    "companyLogo": "/images/logos/gdg.svg",
-    "country": "Buenos Aires, Argentina",
-    "photoUrl": "/images/people/punx.png",
-    "shortBio": "Matias es desarrollador y profe de programación",
-    "bio": "Desarrollador y profe de programación en el Ministerio de Educación de la Ciudad de Buenos Aires y en Escuela Dev Rock",
-    "tags": [
-      "Web",
-      "Polymer"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
-      {
-        "icon": "linkedin",
-        "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/matiaspunx"
-      },
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/antirockstars"
-      },
-      {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/matiaspunx/"
-      }
-    ]
-  },
   "2": {
     "id": 2,
     "featured": true,
@@ -68,6 +32,42 @@
         "icon": "github",
         "name": "GitHub",
         "link": "https://github.com/jonatanariste/"
+      }
+    ]
+  },
+  "1": {
+    "id": 1,
+    "featured": true,
+    "name": "Matias Punx",
+    "title": "Developer Rockstar",
+    "company": "Dev Rockers",
+    "companyLogo": "/images/logos/gdg.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/punx.png",
+    "shortBio": "Desarrollador y profe de programación en el Ministerio de Educación de la Ciudad de Buenos Aires y en Escuela Dev Rock",
+    "bio": "Desarrollador y profe de programación en el Ministerio de Educación de la Ciudad de Buenos Aires y en Escuela Dev Rock",
+    "tags": [
+      "Web",
+      "Polymer"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/matiaspunx"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/antirockstars"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/matiaspunx/"
       }
     ]
   },
@@ -390,6 +390,36 @@
       }
     ]
   },
+  "13": {
+    "id": 13,
+    "featured": true,
+    "name": "Martin Rabaglia",
+    "title": "Ingeniero, músico",
+    "company": "Genosha",
+    "companyLogo": "/images/logos/genosha.svg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/martinr.png",
+    "shortBio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.",
+    "bio": "Martin es ingeniero, músico y digital storyteller, que ama crear experiencias que mezclan el mundo digital con el real.<br>Trabaja como Director de Tecnología y Experiencias en Genosha, una agencia Argentina.<br>Martin participó como orador de eventos como SXSW, Media Party, MozFest y BAFICI.",
+    "tags": [
+      "VR"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/tincho_for_ever"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/tinchoforever"
+      }
+    ]
+  },
   "14": {
     "id": 14,
     "featured": true,
@@ -481,6 +511,11 @@
 
     ],
     "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/ceciliahvalsoe"
+      },
       {
         "icon": "facebook",
         "name": "Facebook",
@@ -754,10 +789,11 @@
     "companyLogo": "/images/logos/intec.jpg",
     "country": "Buenos Aires, Argentina",
     "photoUrl": "/images/people/simone.jpg",
-    "shortBio": "",
-    "bio": "",
+    "shortBio": "Simón y Esteban son Profesores en informática. Como Facilitadores Tecnológicos Digitales desarrollan y asesoran proyectos de inclusión TIC en las prácticas de enseñanza en distintas instituciones educativas de la Cuidad de Buenos Aires.",
+    "bio": "Simón y Esteban son Profesores en informática. Como Facilitadores Tecnológicos Digitales desarrollan y asesoran proyectos de inclusión TIC en las prácticas de enseñanza en distintas instituciones educativas de la Cuidad de Buenos Aires.",
     "tags": [
-      "Educación"
+      "Educación",
+      "TIC"
     ],
     "badges": [
 
@@ -779,15 +815,16 @@
     "id": 26,
     "featured": true,
     "name": "Pili Mayora",
-    "title": "Developer",
-    "company": "Datos Abiertos",
-    "companyLogo": "",
+    "title": "Ingeniera en sistemas",
+    "company": "Ministerio de Modernización",
+    "companyLogo": "/images/logos/logo_ministerio.svg",
     "country": "Buenos Aires, Argentina",
-    "photoUrl": "",
-    "shortBio": "",
-    "bio": "",
+    "photoUrl": "/images/people/pili-casco.jpg",
+    "shortBio": "Pili es ingeniera en sistemas y es la Coordinadora de Desarrollo de la Dirección Nacional de Datos e Información Pública del Ministerio de Modernización.",
+    "bio": "Pili es ingeniera en sistemas y es la Coordinadora de Desarrollo de la Dirección Nacional de Datos e Información Pública del Ministerio de Modernización. Antes de trabajar en el gobierno nacional, formó parte del Laboratorio de Gobierno para el Gobierno de la Ciudad de Buenos Aires. Previo al trabajo en GCBA, trabajó en startups de software en Silicon Valley como full-stack developer. Ama el café, los deportes y la menta granizada.",
     "tags": [
-      "Datos"
+      "Fullstack",
+      "Big Data"
     ],
     "badges": [
 
@@ -797,6 +834,58 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/pilimayora"
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "featured": true,
+    "name": "Diego Portillo",
+    "title": "Lic. en C. de la Educación",
+    "company": "Intec",
+    "companyLogo": "/images/logos/intec.jpg",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/diegop.jpeg",
+    "shortBio": "Licenciado en Ciencias de la Educación (Universidad de Buenos Aires). Se desempeña como Asesor Pedagógico en el Ministerio de Educación de la Ciudad de Buenos Aires en el campo de la inclusión de Tecnologías en Escuelas de nivel primario...",
+    "bio": "Licenciado en Ciencias de la Educación (Universidad de Buenos Aires). Se desempeña como Asesor Pedagógico en el Ministerio de Educación de la Ciudad de Buenos Aires en el campo de la inclusión de Tecnologías en Escuelas de nivel primario del D.E. N° 4 e Instituciones de Nivel Terciario (Formación Docente). Diseña materiales de capacitación y distintos dispositivos  para la inclusión de las TIC en la Educación.",
+    "tags": [
+      "Educación",
+      "TIC"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/pilimayora"
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "featured": true,
+    "name": "Nazareth Serrani",
+    "title": "Docente",
+    "company": "GCBA",
+    "companyLogo": "",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/nserrani.jpg",
+    "shortBio": "Docente del gobierno de la Ciudad de Buenos Aires. Actualmente trabajando en la escuela 12, DE 09, con alumnos de primer ciclo.",
+    "bio": "Docente del gobierno de la Ciudad de Buenos Aires. Actualmente trabajando en la escuela 12, DE 09, con alumnos de primer ciclo. Adopta, desde hace varios años, nuevas metodologías en la enseñanza, dándole un protagonismo diferente al alumno, desafiando el status quo, introduciendo otras disciplinas al aprendizaje.<br>Considera que las TICs facilitaron la creación de ambientes propicios para el aprendizaje, donde se pueden adaptar estrategias de enseñanzas modernas e interactivas, motivadoras y desafiantes. ",
+    "tags": [
+      "Educación",
+      "TIC"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+      {
+        "icon": "facebook",
+        "name": "Facebook",
+        "link": "https://www.facebook.com/nazareth.serrani"
       }
     ]
   }
