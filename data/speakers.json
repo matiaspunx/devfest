@@ -856,11 +856,7 @@
 
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/pilimayora"
-      }
+
     ]
   },
   "28": {
@@ -887,6 +883,28 @@
         "name": "Facebook",
         "link": "https://www.facebook.com/nazareth.serrani"
       }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "featured": true,
+    "name": "Martín Szyszlican",
+    "title": "Director de Tecnología",
+    "company": "Fundación Conocimiento Abierto",
+    "companyLogo": "",
+    "country": "Buenos Aires, Argentina",
+    "photoUrl": "/images/people/martinsz.png",
+    "shortBio": "Martín Szyszlican, Director de Tecnología de la Fundación Conocimiento Abierto. Un hacker cívico, preocupado por usar sus poderes para el bien, se dedica a hacer tecnología cívica y a activar por la apertura de datos.",
+    "bio": "Martín Szyszlican, Director de Tecnología de la Fundación Conocimiento Abierto. Un hacker cívico, preocupado por usar sus poderes para el bien, se dedica a hacer tecnología cívica y a activar por la apertura de datos. Especialista en usabilidad y accesibilidad, hace sitios web desde antes de empezar a votar.",
+    "tags": [
+      "Hack",
+      "Datos"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+
     ]
   }
 }

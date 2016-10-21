@@ -280,10 +280,10 @@
   "122": {
     "id": 122,
     "title": "Lightning talks!",
-    "description": "**Hello School!** *(Simón Yagas, Esteban Piazza)*<br>Dos docentes cuentan sus experiencias y resultados de enseñar programación en escuelas a gente normal.<br><br>**¿Porque la necesidad de innovar en Educación?** *(Diego Portillo)*<br>Las aulas se revolucionan con las TIC, los dispositivos digitales como recursos pedagógicos para lograr aprendizajes significativos y la educación digital como campo de conocimiento emergente que garantiza la inclusión social.",
+    "description": "**Hello School!** *(Simón Yagas, Esteban Piazza)*<br>Dos docentes cuentan sus experiencias y resultados de enseñar programación en escuelas a gente normal.<br><br>**¿Porque la necesidad de innovar en Educación?** *(Diego Portillo)*<br>Las aulas se revolucionan con las TIC, los dispositivos digitales como recursos pedagógicos para lograr aprendizajes significativos y la educación digital como campo de conocimiento emergente que garantiza la inclusión social.<br><br>**¿Cómo puedo convertirme en un hacker cívico?** *Martín Szyszlican*<br>Introducción al mundo de los datos abiertos de gobierno y los desarrollos de tecnología cívica que se pueden hacer con ellos. ",
     "language": "Español",
     "speakers": [
-      25,27
+      25,27,29
     ],
     "complexity": "Inicial",
     "tags": [
@@ -306,7 +306,7 @@
   },
   "120": {
     "id": 120,
-    "title": "Historias con mapas...",
+    "title": "Historias con mapas",
     "description": "Vamos a hacer un torque con repercusiones de tweets geolocalizados y varios cloropleths de femicidios por provincia y repercusiones por provincia.",
     "language": "Español",
     "speakers": [
